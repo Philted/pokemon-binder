@@ -1,0 +1,2447 @@
+{
+    "set_name": "Obsidian Flame",
+    "set_code": "obsidian_flame",
+    "settings": {
+        "width": 4,
+        "height": 3,
+        "color": "#9900ff"
+    },
+    "cards": [
+        {
+            "id": "001",
+            "name": "Oddish (Normal)",
+            "image": "images/obsidian_flame/001 - Oddish - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "002",
+            "name": "Oddish (Reverse Holofoil)",
+            "image": "images/obsidian_flame/002 - Oddish - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "003",
+            "name": "Gloom (Normal)",
+            "image": "images/obsidian_flame/003 - Gloom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "004",
+            "name": "Gloom (Reverse Holofoil)",
+            "image": "images/obsidian_flame/004 - Gloom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "005",
+            "name": "Bellossom (Normal)",
+            "image": "images/obsidian_flame/005 - Bellossom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "006",
+            "name": "Bellossom (Reverse Holofoil)",
+            "image": "images/obsidian_flame/006 - Bellossom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "007",
+            "name": "Scyther (Normal)",
+            "image": "images/obsidian_flame/007 - Scyther - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "008",
+            "name": "Scyther (Reverse Holofoil)",
+            "image": "images/obsidian_flame/008 - Scyther - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "009",
+            "name": "Shuckle (Normal)",
+            "image": "images/obsidian_flame/009 - Shuckle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "010",
+            "name": "Shuckle (Reverse Holofoil)",
+            "image": "images/obsidian_flame/010 - Shuckle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "011",
+            "name": "Surskit (Normal)",
+            "image": "images/obsidian_flame/011 - Surskit - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "012",
+            "name": "Surskit (Reverse Holofoil)",
+            "image": "images/obsidian_flame/012 - Surskit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "013",
+            "name": "Masquerain (Normal)",
+            "image": "images/obsidian_flame/013 - Masquerain - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "014",
+            "name": "Masquerain (Reverse Holofoil)",
+            "image": "images/obsidian_flame/014 - Masquerain - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "015",
+            "name": "Combee (Normal)",
+            "image": "images/obsidian_flame/015 - Combee - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "016",
+            "name": "Combee (Reverse Holofoil)",
+            "image": "images/obsidian_flame/016 - Combee - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "017",
+            "name": "Foongus (Normal)",
+            "image": "images/obsidian_flame/017 - Foongus - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "018",
+            "name": "Foongus (Reverse Holofoil)",
+            "image": "images/obsidian_flame/018 - Foongus - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "019",
+            "name": "Amoonguss (Normal)",
+            "image": "images/obsidian_flame/019 - Amoonguss - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "020",
+            "name": "Amoonguss (Reverse Holofoil)",
+            "image": "images/obsidian_flame/020 - Amoonguss - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "021",
+            "name": "Phantump (Normal)",
+            "image": "images/obsidian_flame/021 - Phantump - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "022",
+            "name": "Phantump (Reverse Holofoil)",
+            "image": "images/obsidian_flame/022 - Phantump - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "023",
+            "name": "Trevenant (Normal)",
+            "image": "images/obsidian_flame/023 - Trevenant - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "024",
+            "name": "Trevenant (Reverse Holofoil)",
+            "image": "images/obsidian_flame/024 - Trevenant - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "025",
+            "name": "Rowlet (Normal)",
+            "image": "images/obsidian_flame/025 - Rowlet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "026",
+            "name": "Rowlet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/026 - Rowlet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "027",
+            "name": "Dartrix (Normal)",
+            "image": "images/obsidian_flame/027 - Dartrix - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "028",
+            "name": "Dartrix (Reverse Holofoil)",
+            "image": "images/obsidian_flame/028 - Dartrix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "029",
+            "name": "Decidueye ex (Holofoil)",
+            "image": "images/obsidian_flame/029 - Decidueye ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "030",
+            "name": "Bounsweet (Normal)",
+            "image": "images/obsidian_flame/030 - Bounsweet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "031",
+            "name": "Bounsweet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/031 - Bounsweet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "032",
+            "name": "Steenee (Normal)",
+            "image": "images/obsidian_flame/032 - Steenee - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "033",
+            "name": "Steenee (Reverse Holofoil)",
+            "image": "images/obsidian_flame/033 - Steenee - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "034",
+            "name": "Tsareena (Normal)",
+            "image": "images/obsidian_flame/034 - Tsareena - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "035",
+            "name": "Tsareena (Reverse Holofoil)",
+            "image": "images/obsidian_flame/035 - Tsareena - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "036",
+            "name": "Smoliv (Normal)",
+            "image": "images/obsidian_flame/036 - Smoliv - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "037",
+            "name": "Smoliv (Reverse Holofoil)",
+            "image": "images/obsidian_flame/037 - Smoliv - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "038",
+            "name": "Dolliv (Normal)",
+            "image": "images/obsidian_flame/038 - Dolliv - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "039",
+            "name": "Dolliv (Reverse Holofoil)",
+            "image": "images/obsidian_flame/039 - Dolliv - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "040",
+            "name": "Arboliva (Normal)",
+            "image": "images/obsidian_flame/040 - Arboliva - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "041",
+            "name": "Arboliva (Reverse Holofoil)",
+            "image": "images/obsidian_flame/041 - Arboliva - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "042",
+            "name": "Toedscruel ex (Holofoil)",
+            "image": "images/obsidian_flame/042 - Toedscruel ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "043",
+            "name": "Capsakid (Normal)",
+            "image": "images/obsidian_flame/043 - Capsakid - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "044",
+            "name": "Capsakid (Reverse Holofoil)",
+            "image": "images/obsidian_flame/044 - Capsakid - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "045",
+            "name": "Capsakid (Normal)",
+            "image": "images/obsidian_flame/045 - Capsakid - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "046",
+            "name": "Capsakid (Reverse Holofoil)",
+            "image": "images/obsidian_flame/046 - Capsakid - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "047",
+            "name": "Scovillain (Holofoil)",
+            "image": "images/obsidian_flame/047 - Scovillain - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "048",
+            "name": "Scovillain (Reverse Holofoil)",
+            "image": "images/obsidian_flame/048 - Scovillain - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "049",
+            "name": "Charmander (Normal)",
+            "image": "images/obsidian_flame/049 - Charmander - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "050",
+            "name": "Charmander (Reverse Holofoil)",
+            "image": "images/obsidian_flame/050 - Charmander - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "051",
+            "name": "Charmeleon (Normal)",
+            "image": "images/obsidian_flame/051 - Charmeleon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "052",
+            "name": "Charmeleon (Reverse Holofoil)",
+            "image": "images/obsidian_flame/052 - Charmeleon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "053",
+            "name": "Vulpix (Normal)",
+            "image": "images/obsidian_flame/053 - Vulpix - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "054",
+            "name": "Vulpix (Reverse Holofoil)",
+            "image": "images/obsidian_flame/054 - Vulpix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "055",
+            "name": "Ninetales (Normal)",
+            "image": "images/obsidian_flame/055 - Ninetales - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "056",
+            "name": "Ninetales (Reverse Holofoil)",
+            "image": "images/obsidian_flame/056 - Ninetales - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "057",
+            "name": "Entei (Holofoil)",
+            "image": "images/obsidian_flame/057 - Entei - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "058",
+            "name": "Entei (Reverse Holofoil)",
+            "image": "images/obsidian_flame/058 - Entei - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "059",
+            "name": "Numel (Normal)",
+            "image": "images/obsidian_flame/059 - Numel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "060",
+            "name": "Numel (Reverse Holofoil)",
+            "image": "images/obsidian_flame/060 - Numel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "061",
+            "name": "Camerupt (Normal)",
+            "image": "images/obsidian_flame/061 - Camerupt - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "062",
+            "name": "Camerupt (Reverse Holofoil)",
+            "image": "images/obsidian_flame/062 - Camerupt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "063",
+            "name": "Victini ex (Holofoil)",
+            "image": "images/obsidian_flame/063 - Victini ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "064",
+            "name": "Darumaka (Normal)",
+            "image": "images/obsidian_flame/064 - Darumaka - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "065",
+            "name": "Darumaka (Reverse Holofoil)",
+            "image": "images/obsidian_flame/065 - Darumaka - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "066",
+            "name": "Darmanitan (Normal)",
+            "image": "images/obsidian_flame/066 - Darmanitan - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "067",
+            "name": "Darmanitan (Reverse Holofoil)",
+            "image": "images/obsidian_flame/067 - Darmanitan - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "068",
+            "name": "Litwick (Normal)",
+            "image": "images/obsidian_flame/068 - Litwick - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "069",
+            "name": "Litwick (Reverse Holofoil)",
+            "image": "images/obsidian_flame/069 - Litwick - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "070",
+            "name": "Lampent (Normal)",
+            "image": "images/obsidian_flame/070 - Lampent - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "071",
+            "name": "Lampent (Reverse Holofoil)",
+            "image": "images/obsidian_flame/071 - Lampent - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "072",
+            "name": "Chandelure (Normal)",
+            "image": "images/obsidian_flame/072 - Chandelure - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "073",
+            "name": "Chandelure (Reverse Holofoil)",
+            "image": "images/obsidian_flame/073 - Chandelure - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "074",
+            "name": "Heatmor (Normal)",
+            "image": "images/obsidian_flame/074 - Heatmor - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "075",
+            "name": "Heatmor (Reverse Holofoil)",
+            "image": "images/obsidian_flame/075 - Heatmor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "076",
+            "name": "Larvesta (Normal)",
+            "image": "images/obsidian_flame/076 - Larvesta - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "077",
+            "name": "Larvesta (Reverse Holofoil)",
+            "image": "images/obsidian_flame/077 - Larvesta - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "078",
+            "name": "Volcarona (Normal)",
+            "image": "images/obsidian_flame/078 - Volcarona - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "079",
+            "name": "Volcarona (Reverse Holofoil)",
+            "image": "images/obsidian_flame/079 - Volcarona - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "080",
+            "name": "Eiscue ex (Holofoil)",
+            "image": "images/obsidian_flame/080 - Eiscue ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "081",
+            "name": "Charcadet (Normal)",
+            "image": "images/obsidian_flame/081 - Charcadet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "082",
+            "name": "Charcadet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/082 - Charcadet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "083",
+            "name": "Armarouge (Normal)",
+            "image": "images/obsidian_flame/083 - Armarouge - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "084",
+            "name": "Armarouge (Reverse Holofoil)",
+            "image": "images/obsidian_flame/084 - Armarouge - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "085",
+            "name": "Lapras (Normal)",
+            "image": "images/obsidian_flame/085 - Lapras - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "086",
+            "name": "Lapras (Reverse Holofoil)",
+            "image": "images/obsidian_flame/086 - Lapras - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "087",
+            "name": "Carvanha (Normal)",
+            "image": "images/obsidian_flame/087 - Carvanha - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "088",
+            "name": "Carvanha (Reverse Holofoil)",
+            "image": "images/obsidian_flame/088 - Carvanha - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "089",
+            "name": "Sharpedo (Normal)",
+            "image": "images/obsidian_flame/089 - Sharpedo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "090",
+            "name": "Sharpedo (Reverse Holofoil)",
+            "image": "images/obsidian_flame/090 - Sharpedo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "091",
+            "name": "Buizel (Normal)",
+            "image": "images/obsidian_flame/091 - Buizel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "092",
+            "name": "Buizel (Reverse Holofoil)",
+            "image": "images/obsidian_flame/092 - Buizel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "093",
+            "name": "Floatzel (Normal)",
+            "image": "images/obsidian_flame/093 - Floatzel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "094",
+            "name": "Floatzel (Reverse Holofoil)",
+            "image": "images/obsidian_flame/094 - Floatzel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "095",
+            "name": "Tympole (Normal)",
+            "image": "images/obsidian_flame/095 - Tympole - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "096",
+            "name": "Tympole (Reverse Holofoil)",
+            "image": "images/obsidian_flame/096 - Tympole - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "097",
+            "name": "Palpitoad (Normal)",
+            "image": "images/obsidian_flame/097 - Palpitoad - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "098",
+            "name": "Palpitoad (Reverse Holofoil)",
+            "image": "images/obsidian_flame/098 - Palpitoad - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "099",
+            "name": "Seismitoad (Normal)",
+            "image": "images/obsidian_flame/099 - Seismitoad - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "100",
+            "name": "Seismitoad (Reverse Holofoil)",
+            "image": "images/obsidian_flame/100 - Seismitoad - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "101",
+            "name": "Cubchoo (Normal)",
+            "image": "images/obsidian_flame/101 - Cubchoo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "102",
+            "name": "Cubchoo (Reverse Holofoil)",
+            "image": "images/obsidian_flame/102 - Cubchoo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "103",
+            "name": "Beartic (Normal)",
+            "image": "images/obsidian_flame/103 - Beartic - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "104",
+            "name": "Beartic (Reverse Holofoil)",
+            "image": "images/obsidian_flame/104 - Beartic - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "105",
+            "name": "Cryogonal (Normal)",
+            "image": "images/obsidian_flame/105 - Cryogonal - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "106",
+            "name": "Cryogonal (Reverse Holofoil)",
+            "image": "images/obsidian_flame/106 - Cryogonal - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "107",
+            "name": "Froakie (Normal)",
+            "image": "images/obsidian_flame/107 - Froakie - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "108",
+            "name": "Froakie (Reverse Holofoil)",
+            "image": "images/obsidian_flame/108 - Froakie - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "109",
+            "name": "Frogadier (Normal)",
+            "image": "images/obsidian_flame/109 - Frogadier - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "110",
+            "name": "Frogadier (Reverse Holofoil)",
+            "image": "images/obsidian_flame/110 - Frogadier - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "111",
+            "name": "Wiglett (Normal)",
+            "image": "images/obsidian_flame/111 - Wiglett - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "112",
+            "name": "Wiglett (Reverse Holofoil)",
+            "image": "images/obsidian_flame/112 - Wiglett - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "113",
+            "name": "Wugtrio (Normal)",
+            "image": "images/obsidian_flame/113 - Wugtrio - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "114",
+            "name": "Wugtrio (Reverse Holofoil)",
+            "image": "images/obsidian_flame/114 - Wugtrio - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "115",
+            "name": "Finizen (Normal)",
+            "image": "images/obsidian_flame/115 - Finizen - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "116",
+            "name": "Finizen (Reverse Holofoil)",
+            "image": "images/obsidian_flame/116 - Finizen - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "117",
+            "name": "Finizen (Normal)",
+            "image": "images/obsidian_flame/117 - Finizen - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "118",
+            "name": "Finizen (Reverse Holofoil)",
+            "image": "images/obsidian_flame/118 - Finizen - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "119",
+            "name": "Palafin (Holofoil)",
+            "image": "images/obsidian_flame/119 - Palafin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "120",
+            "name": "Palafin (Reverse Holofoil)",
+            "image": "images/obsidian_flame/120 - Palafin - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "121",
+            "name": "Magnemite (Normal)",
+            "image": "images/obsidian_flame/121 - Magnemite - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "122",
+            "name": "Magnemite (Reverse Holofoil)",
+            "image": "images/obsidian_flame/122 - Magnemite - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "123",
+            "name": "Magneton (Normal)",
+            "image": "images/obsidian_flame/123 - Magneton - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "124",
+            "name": "Magneton (Reverse Holofoil)",
+            "image": "images/obsidian_flame/124 - Magneton - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "125",
+            "name": "Magnezone (Normal)",
+            "image": "images/obsidian_flame/125 - Magnezone - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "126",
+            "name": "Magnezone (Reverse Holofoil)",
+            "image": "images/obsidian_flame/126 - Magnezone - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "127",
+            "name": "Tyranitar ex (Holofoil)",
+            "image": "images/obsidian_flame/127 - Tyranitar ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "128",
+            "name": "Tynamo (Normal)",
+            "image": "images/obsidian_flame/128 - Tynamo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "129",
+            "name": "Tynamo (Reverse Holofoil)",
+            "image": "images/obsidian_flame/129 - Tynamo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "130",
+            "name": "Eelektrik (Normal)",
+            "image": "images/obsidian_flame/130 - Eelektrik - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "131",
+            "name": "Eelektrik (Reverse Holofoil)",
+            "image": "images/obsidian_flame/131 - Eelektrik - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "132",
+            "name": "Eelektross (Normal)",
+            "image": "images/obsidian_flame/132 - Eelektross - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "133",
+            "name": "Eelektross (Reverse Holofoil)",
+            "image": "images/obsidian_flame/133 - Eelektross - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "134",
+            "name": "Thundurus (Holofoil)",
+            "image": "images/obsidian_flame/134 - Thundurus - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "135",
+            "name": "Thundurus (Reverse Holofoil)",
+            "image": "images/obsidian_flame/135 - Thundurus - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "136",
+            "name": "Toxel (Normal)",
+            "image": "images/obsidian_flame/136 - Toxel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "137",
+            "name": "Toxel (Reverse Holofoil)",
+            "image": "images/obsidian_flame/137 - Toxel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "138",
+            "name": "Toxtricity (Holofoil)",
+            "image": "images/obsidian_flame/138 - Toxtricity - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "139",
+            "name": "Toxtricity (Reverse Holofoil)",
+            "image": "images/obsidian_flame/139 - Toxtricity - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "140",
+            "name": "Pawmot ex (Holofoil)",
+            "image": "images/obsidian_flame/140 - Pawmot ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "141",
+            "name": "Tadbulb (Normal)",
+            "image": "images/obsidian_flame/141 - Tadbulb - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "142",
+            "name": "Tadbulb (Reverse Holofoil)",
+            "image": "images/obsidian_flame/142 - Tadbulb - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "143",
+            "name": "Tadbulb (Normal)",
+            "image": "images/obsidian_flame/143 - Tadbulb - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "144",
+            "name": "Tadbulb (Reverse Holofoil)",
+            "image": "images/obsidian_flame/144 - Tadbulb - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "145",
+            "name": "Tadbulb (Normal)",
+            "image": "images/obsidian_flame/145 - Tadbulb - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "146",
+            "name": "Tadbulb (Reverse Holofoil)",
+            "image": "images/obsidian_flame/146 - Tadbulb - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "147",
+            "name": "Bellibolt (Normal)",
+            "image": "images/obsidian_flame/147 - Bellibolt - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "148",
+            "name": "Bellibolt (Reverse Holofoil)",
+            "image": "images/obsidian_flame/148 - Bellibolt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "149",
+            "name": "Bellibolt (Normal)",
+            "image": "images/obsidian_flame/149 - Bellibolt - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "150",
+            "name": "Bellibolt (Reverse Holofoil)",
+            "image": "images/obsidian_flame/150 - Bellibolt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "151",
+            "name": "Miraidon ex (Holofoil)",
+            "image": "images/obsidian_flame/151 - Miraidon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "152",
+            "name": "Cleffa (Normal)",
+            "image": "images/obsidian_flame/152 - Cleffa - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "153",
+            "name": "Cleffa (Reverse Holofoil)",
+            "image": "images/obsidian_flame/153 - Cleffa - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "154",
+            "name": "Clefairy (Normal)",
+            "image": "images/obsidian_flame/154 - Clefairy - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "155",
+            "name": "Clefairy (Reverse Holofoil)",
+            "image": "images/obsidian_flame/155 - Clefairy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "156",
+            "name": "Clefable ex (Holofoil)",
+            "image": "images/obsidian_flame/156 - Clefable ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "157",
+            "name": "Togepi (Normal)",
+            "image": "images/obsidian_flame/157 - Togepi - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "158",
+            "name": "Togepi (Reverse Holofoil)",
+            "image": "images/obsidian_flame/158 - Togepi - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "159",
+            "name": "Togetic (Normal)",
+            "image": "images/obsidian_flame/159 - Togetic - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "160",
+            "name": "Togetic (Reverse Holofoil)",
+            "image": "images/obsidian_flame/160 - Togetic - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "161",
+            "name": "Togekiss (Holofoil)",
+            "image": "images/obsidian_flame/161 - Togekiss - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "162",
+            "name": "Togekiss (Reverse Holofoil)",
+            "image": "images/obsidian_flame/162 - Togekiss - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "163",
+            "name": "Espeon (Normal)",
+            "image": "images/obsidian_flame/163 - Espeon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "164",
+            "name": "Espeon (Reverse Holofoil)",
+            "image": "images/obsidian_flame/164 - Espeon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "165",
+            "name": "Snubbull (Normal)",
+            "image": "images/obsidian_flame/165 - Snubbull - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "166",
+            "name": "Snubbull (Reverse Holofoil)",
+            "image": "images/obsidian_flame/166 - Snubbull - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "167",
+            "name": "Granbull (Normal)",
+            "image": "images/obsidian_flame/167 - Granbull - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "168",
+            "name": "Granbull (Reverse Holofoil)",
+            "image": "images/obsidian_flame/168 - Granbull - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "169",
+            "name": "Mawile (Normal)",
+            "image": "images/obsidian_flame/169 - Mawile - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "170",
+            "name": "Mawile (Reverse Holofoil)",
+            "image": "images/obsidian_flame/170 - Mawile - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "171",
+            "name": "Spoink (Normal)",
+            "image": "images/obsidian_flame/171 - Spoink - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "172",
+            "name": "Spoink (Reverse Holofoil)",
+            "image": "images/obsidian_flame/172 - Spoink - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "173",
+            "name": "Grumpig (Normal)",
+            "image": "images/obsidian_flame/173 - Grumpig - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "174",
+            "name": "Grumpig (Reverse Holofoil)",
+            "image": "images/obsidian_flame/174 - Grumpig - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "175",
+            "name": "Lunatone (Normal)",
+            "image": "images/obsidian_flame/175 - Lunatone - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "176",
+            "name": "Lunatone (Reverse Holofoil)",
+            "image": "images/obsidian_flame/176 - Lunatone - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "177",
+            "name": "Solrock (Normal)",
+            "image": "images/obsidian_flame/177 - Solrock - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "178",
+            "name": "Solrock (Reverse Holofoil)",
+            "image": "images/obsidian_flame/178 - Solrock - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "179",
+            "name": "Baltoy (Normal)",
+            "image": "images/obsidian_flame/179 - Baltoy - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "180",
+            "name": "Baltoy (Reverse Holofoil)",
+            "image": "images/obsidian_flame/180 - Baltoy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "181",
+            "name": "Claydol (Holofoil)",
+            "image": "images/obsidian_flame/181 - Claydol - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "182",
+            "name": "Claydol (Reverse Holofoil)",
+            "image": "images/obsidian_flame/182 - Claydol - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "183",
+            "name": "Vespiquen ex (Holofoil)",
+            "image": "images/obsidian_flame/183 - Vespiquen ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "184",
+            "name": "Sinistea (Normal)",
+            "image": "images/obsidian_flame/184 - Sinistea - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "185",
+            "name": "Sinistea (Reverse Holofoil)",
+            "image": "images/obsidian_flame/185 - Sinistea - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "186",
+            "name": "Polteageist (Normal)",
+            "image": "images/obsidian_flame/186 - Polteageist - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "187",
+            "name": "Polteageist (Reverse Holofoil)",
+            "image": "images/obsidian_flame/187 - Polteageist - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "188",
+            "name": "Greavard (Normal)",
+            "image": "images/obsidian_flame/188 - Greavard - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "189",
+            "name": "Greavard (Reverse Holofoil)",
+            "image": "images/obsidian_flame/189 - Greavard - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "190",
+            "name": "Greavard (Normal)",
+            "image": "images/obsidian_flame/190 - Greavard - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "191",
+            "name": "Greavard (Reverse Holofoil)",
+            "image": "images/obsidian_flame/191 - Greavard - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "192",
+            "name": "Houndstone (Normal)",
+            "image": "images/obsidian_flame/192 - Houndstone - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "193",
+            "name": "Houndstone (Reverse Holofoil)",
+            "image": "images/obsidian_flame/193 - Houndstone - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "194",
+            "name": "Houndstone ex (Holofoil)",
+            "image": "images/obsidian_flame/194 - Houndstone ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "195",
+            "name": "Diglett (Normal)",
+            "image": "images/obsidian_flame/195 - Diglett - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "196",
+            "name": "Diglett (Reverse Holofoil)",
+            "image": "images/obsidian_flame/196 - Diglett - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "197",
+            "name": "Dugtrio (Normal)",
+            "image": "images/obsidian_flame/197 - Dugtrio - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "198",
+            "name": "Dugtrio (Reverse Holofoil)",
+            "image": "images/obsidian_flame/198 - Dugtrio - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "199",
+            "name": "Larvitar (Normal)",
+            "image": "images/obsidian_flame/199 - Larvitar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "200",
+            "name": "Larvitar (Reverse Holofoil)",
+            "image": "images/obsidian_flame/200 - Larvitar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "201",
+            "name": "Pupitar (Normal)",
+            "image": "images/obsidian_flame/201 - Pupitar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "202",
+            "name": "Pupitar (Reverse Holofoil)",
+            "image": "images/obsidian_flame/202 - Pupitar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "203",
+            "name": "Nosepass (Normal)",
+            "image": "images/obsidian_flame/203 - Nosepass - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "204",
+            "name": "Nosepass (Reverse Holofoil)",
+            "image": "images/obsidian_flame/204 - Nosepass - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "205",
+            "name": "Barboach (Normal)",
+            "image": "images/obsidian_flame/205 - Barboach - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "206",
+            "name": "Barboach (Reverse Holofoil)",
+            "image": "images/obsidian_flame/206 - Barboach - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "207",
+            "name": "Whiscash (Normal)",
+            "image": "images/obsidian_flame/207 - Whiscash - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "208",
+            "name": "Whiscash (Reverse Holofoil)",
+            "image": "images/obsidian_flame/208 - Whiscash - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "209",
+            "name": "Bonsly (Normal)",
+            "image": "images/obsidian_flame/209 - Bonsly - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "210",
+            "name": "Bonsly (Reverse Holofoil)",
+            "image": "images/obsidian_flame/210 - Bonsly - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "211",
+            "name": "Drilbur (Normal)",
+            "image": "images/obsidian_flame/211 - Drilbur - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "212",
+            "name": "Drilbur (Reverse Holofoil)",
+            "image": "images/obsidian_flame/212 - Drilbur - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "213",
+            "name": "Stunfisk (Normal)",
+            "image": "images/obsidian_flame/213 - Stunfisk - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "214",
+            "name": "Stunfisk (Reverse Holofoil)",
+            "image": "images/obsidian_flame/214 - Stunfisk - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "215",
+            "name": "Diggersby (Normal)",
+            "image": "images/obsidian_flame/215 - Diggersby - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "216",
+            "name": "Diggersby (Reverse Holofoil)",
+            "image": "images/obsidian_flame/216 - Diggersby - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "217",
+            "name": "Crabrawler (Normal)",
+            "image": "images/obsidian_flame/217 - Crabrawler - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "218",
+            "name": "Crabrawler (Reverse Holofoil)",
+            "image": "images/obsidian_flame/218 - Crabrawler - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "219",
+            "name": "Crabominable (Normal)",
+            "image": "images/obsidian_flame/219 - Crabominable - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "220",
+            "name": "Crabominable (Reverse Holofoil)",
+            "image": "images/obsidian_flame/220 - Crabominable - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "221",
+            "name": "Rockruff (Normal)",
+            "image": "images/obsidian_flame/221 - Rockruff - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "222",
+            "name": "Rockruff (Reverse Holofoil)",
+            "image": "images/obsidian_flame/222 - Rockruff - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "223",
+            "name": "Lycanroc (Normal)",
+            "image": "images/obsidian_flame/223 - Lycanroc - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "224",
+            "name": "Lycanroc (Reverse Holofoil)",
+            "image": "images/obsidian_flame/224 - Lycanroc - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "225",
+            "name": "Toedscool (Normal)",
+            "image": "images/obsidian_flame/225 - Toedscool - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "226",
+            "name": "Toedscool (Reverse Holofoil)",
+            "image": "images/obsidian_flame/226 - Toedscool - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "227",
+            "name": "Toedscruel (Normal)",
+            "image": "images/obsidian_flame/227 - Toedscruel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "228",
+            "name": "Toedscruel (Reverse Holofoil)",
+            "image": "images/obsidian_flame/228 - Toedscruel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "229",
+            "name": "Klawf ex (Holofoil)",
+            "image": "images/obsidian_flame/229 - Klawf ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "230",
+            "name": "Glimmet (Normal)",
+            "image": "images/obsidian_flame/230 - Glimmet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "231",
+            "name": "Glimmet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/231 - Glimmet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "232",
+            "name": "Glimmet (Normal)",
+            "image": "images/obsidian_flame/232 - Glimmet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "233",
+            "name": "Glimmet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/233 - Glimmet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "234",
+            "name": "Glimmora ex (Holofoil)",
+            "image": "images/obsidian_flame/234 - Glimmora ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "235",
+            "name": "Koraidon ex (Holofoil)",
+            "image": "images/obsidian_flame/235 - Koraidon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "236",
+            "name": "Charizard ex (Holofoil)",
+            "image": "images/obsidian_flame/236 - Charizard ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "237",
+            "name": "Paldean Wooper (Normal)",
+            "image": "images/obsidian_flame/237 - Paldean Wooper - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "238",
+            "name": "Paldean Wooper (Reverse Holofoil)",
+            "image": "images/obsidian_flame/238 - Paldean Wooper - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "239",
+            "name": "Paldean Wooper (Normal)",
+            "image": "images/obsidian_flame/239 - Paldean Wooper - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "240",
+            "name": "Paldean Wooper (Reverse Holofoil)",
+            "image": "images/obsidian_flame/240 - Paldean Wooper - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "241",
+            "name": "Paldean Clodsire (Normal)",
+            "image": "images/obsidian_flame/241 - Paldean Clodsire - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "242",
+            "name": "Paldean Clodsire (Reverse Holofoil)",
+            "image": "images/obsidian_flame/242 - Paldean Clodsire - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "243",
+            "name": "Paldean Clodsire (Normal)",
+            "image": "images/obsidian_flame/243 - Paldean Clodsire - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "244",
+            "name": "Paldean Clodsire (Reverse Holofoil)",
+            "image": "images/obsidian_flame/244 - Paldean Clodsire - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "245",
+            "name": "Umbreon (Normal)",
+            "image": "images/obsidian_flame/245 - Umbreon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "246",
+            "name": "Umbreon (Reverse Holofoil)",
+            "image": "images/obsidian_flame/246 - Umbreon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "247",
+            "name": "Houndour (Normal)",
+            "image": "images/obsidian_flame/247 - Houndour - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "248",
+            "name": "Houndour (Reverse Holofoil)",
+            "image": "images/obsidian_flame/248 - Houndour - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "249",
+            "name": "Houndour (Normal)",
+            "image": "images/obsidian_flame/249 - Houndour - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "250",
+            "name": "Houndour (Reverse Holofoil)",
+            "image": "images/obsidian_flame/250 - Houndour - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "251",
+            "name": "Houndoom (Normal)",
+            "image": "images/obsidian_flame/251 - Houndoom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "252",
+            "name": "Houndoom (Reverse Holofoil)",
+            "image": "images/obsidian_flame/252 - Houndoom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "253",
+            "name": "Houndoom ex (Holofoil)",
+            "image": "images/obsidian_flame/253 - Houndoom ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "254",
+            "name": "Absol ex (Holofoil)",
+            "image": "images/obsidian_flame/254 - Absol ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "255",
+            "name": "Darkrai (Holofoil)",
+            "image": "images/obsidian_flame/255 - Darkrai - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "256",
+            "name": "Darkrai (Reverse Holofoil)",
+            "image": "images/obsidian_flame/256 - Darkrai - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "257",
+            "name": "Inkay (Normal)",
+            "image": "images/obsidian_flame/257 - Inkay - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "258",
+            "name": "Inkay (Reverse Holofoil)",
+            "image": "images/obsidian_flame/258 - Inkay - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "259",
+            "name": "Malamar (Normal)",
+            "image": "images/obsidian_flame/259 - Malamar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "260",
+            "name": "Malamar (Reverse Holofoil)",
+            "image": "images/obsidian_flame/260 - Malamar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "261",
+            "name": "Salandit (Normal)",
+            "image": "images/obsidian_flame/261 - Salandit - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "262",
+            "name": "Salandit (Reverse Holofoil)",
+            "image": "images/obsidian_flame/262 - Salandit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "263",
+            "name": "Salazzle (Normal)",
+            "image": "images/obsidian_flame/263 - Salazzle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "264",
+            "name": "Salazzle (Reverse Holofoil)",
+            "image": "images/obsidian_flame/264 - Salazzle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "265",
+            "name": "Scizor (Holofoil)",
+            "image": "images/obsidian_flame/265 - Scizor - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "266",
+            "name": "Scizor (Reverse Holofoil)",
+            "image": "images/obsidian_flame/266 - Scizor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "267",
+            "name": "Skarmory (Normal)",
+            "image": "images/obsidian_flame/267 - Skarmory - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "268",
+            "name": "Skarmory (Reverse Holofoil)",
+            "image": "images/obsidian_flame/268 - Skarmory - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "269",
+            "name": "Mawile (Normal)",
+            "image": "images/obsidian_flame/269 - Mawile - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "270",
+            "name": "Mawile (Reverse Holofoil)",
+            "image": "images/obsidian_flame/270 - Mawile - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "271",
+            "name": "Bronzor (Normal)",
+            "image": "images/obsidian_flame/271 - Bronzor - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "272",
+            "name": "Bronzor (Reverse Holofoil)",
+            "image": "images/obsidian_flame/272 - Bronzor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "273",
+            "name": "Bronzong (Normal)",
+            "image": "images/obsidian_flame/273 - Bronzong - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "274",
+            "name": "Bronzong (Reverse Holofoil)",
+            "image": "images/obsidian_flame/274 - Bronzong - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "275",
+            "name": "Probopass (Normal)",
+            "image": "images/obsidian_flame/275 - Probopass - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "276",
+            "name": "Probopass (Reverse Holofoil)",
+            "image": "images/obsidian_flame/276 - Probopass - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "277",
+            "name": "Excadrill (Normal)",
+            "image": "images/obsidian_flame/277 - Excadrill - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "278",
+            "name": "Excadrill (Reverse Holofoil)",
+            "image": "images/obsidian_flame/278 - Excadrill - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "279",
+            "name": "Pawniard (Normal)",
+            "image": "images/obsidian_flame/279 - Pawniard - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "280",
+            "name": "Pawniard (Reverse Holofoil)",
+            "image": "images/obsidian_flame/280 - Pawniard - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "281",
+            "name": "Bisharp (Normal)",
+            "image": "images/obsidian_flame/281 - Bisharp - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "282",
+            "name": "Bisharp (Reverse Holofoil)",
+            "image": "images/obsidian_flame/282 - Bisharp - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "283",
+            "name": "Kingambit (Normal)",
+            "image": "images/obsidian_flame/283 - Kingambit - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "284",
+            "name": "Kingambit (Reverse Holofoil)",
+            "image": "images/obsidian_flame/284 - Kingambit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "285",
+            "name": "Togedemaru (Normal)",
+            "image": "images/obsidian_flame/285 - Togedemaru - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "286",
+            "name": "Togedemaru (Reverse Holofoil)",
+            "image": "images/obsidian_flame/286 - Togedemaru - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "287",
+            "name": "Meltan (Normal)",
+            "image": "images/obsidian_flame/287 - Meltan - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "288",
+            "name": "Meltan (Reverse Holofoil)",
+            "image": "images/obsidian_flame/288 - Meltan - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "289",
+            "name": "Melmetal ex (Holofoil)",
+            "image": "images/obsidian_flame/289 - Melmetal ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "290",
+            "name": "Varoom (Normal)",
+            "image": "images/obsidian_flame/290 - Varoom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "291",
+            "name": "Varoom (Reverse Holofoil)",
+            "image": "images/obsidian_flame/291 - Varoom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "292",
+            "name": "Varoom (Normal)",
+            "image": "images/obsidian_flame/292 - Varoom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "293",
+            "name": "Varoom (Reverse Holofoil)",
+            "image": "images/obsidian_flame/293 - Varoom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "294",
+            "name": "Revavroom ex (Holofoil)",
+            "image": "images/obsidian_flame/294 - Revavroom ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "295",
+            "name": "Dratini (Normal)",
+            "image": "images/obsidian_flame/295 - Dratini - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "296",
+            "name": "Dratini (Reverse Holofoil)",
+            "image": "images/obsidian_flame/296 - Dratini - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "297",
+            "name": "Dragonair (Normal)",
+            "image": "images/obsidian_flame/297 - Dragonair - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "298",
+            "name": "Dragonair (Reverse Holofoil)",
+            "image": "images/obsidian_flame/298 - Dragonair - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "299",
+            "name": "Dragonite ex (Holofoil)",
+            "image": "images/obsidian_flame/299 - Dragonite ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "300",
+            "name": "Altaria (Normal)",
+            "image": "images/obsidian_flame/300 - Altaria - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "301",
+            "name": "Altaria (Reverse Holofoil)",
+            "image": "images/obsidian_flame/301 - Altaria - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "302",
+            "name": "Drampa (Normal)",
+            "image": "images/obsidian_flame/302 - Drampa - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "303",
+            "name": "Drampa (Reverse Holofoil)",
+            "image": "images/obsidian_flame/303 - Drampa - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "304",
+            "name": "Pidgey (Normal)",
+            "image": "images/obsidian_flame/304 - Pidgey - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "305",
+            "name": "Pidgey (Reverse Holofoil)",
+            "image": "images/obsidian_flame/305 - Pidgey - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "306",
+            "name": "Pidgeotto (Normal)",
+            "image": "images/obsidian_flame/306 - Pidgeotto - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "307",
+            "name": "Pidgeotto (Reverse Holofoil)",
+            "image": "images/obsidian_flame/307 - Pidgeotto - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "308",
+            "name": "Pidgeot ex (Holofoil)",
+            "image": "images/obsidian_flame/308 - Pidgeot ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "309",
+            "name": "Kangaskhan (Normal)",
+            "image": "images/obsidian_flame/309 - Kangaskhan - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "310",
+            "name": "Kangaskhan (Reverse Holofoil)",
+            "image": "images/obsidian_flame/310 - Kangaskhan - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "311",
+            "name": "Eevee (Normal)",
+            "image": "images/obsidian_flame/311 - Eevee - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "312",
+            "name": "Eevee (Reverse Holofoil)",
+            "image": "images/obsidian_flame/312 - Eevee - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "313",
+            "name": "Zigzagoon (Normal)",
+            "image": "images/obsidian_flame/313 - Zigzagoon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "314",
+            "name": "Zigzagoon (Reverse Holofoil)",
+            "image": "images/obsidian_flame/314 - Zigzagoon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "315",
+            "name": "Linoone (Normal)",
+            "image": "images/obsidian_flame/315 - Linoone - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "316",
+            "name": "Linoone (Reverse Holofoil)",
+            "image": "images/obsidian_flame/316 - Linoone - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "317",
+            "name": "Swablu (Normal)",
+            "image": "images/obsidian_flame/317 - Swablu - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "318",
+            "name": "Swablu (Reverse Holofoil)",
+            "image": "images/obsidian_flame/318 - Swablu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "319",
+            "name": "Lillipup (Normal)",
+            "image": "images/obsidian_flame/319 - Lillipup - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "320",
+            "name": "Lillipup (Reverse Holofoil)",
+            "image": "images/obsidian_flame/320 - Lillipup - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "321",
+            "name": "Herdier (Normal)",
+            "image": "images/obsidian_flame/321 - Herdier - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "322",
+            "name": "Herdier (Reverse Holofoil)",
+            "image": "images/obsidian_flame/322 - Herdier - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "323",
+            "name": "Stoutland (Normal)",
+            "image": "images/obsidian_flame/323 - Stoutland - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "324",
+            "name": "Stoutland (Reverse Holofoil)",
+            "image": "images/obsidian_flame/324 - Stoutland - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "325",
+            "name": "Audino (Normal)",
+            "image": "images/obsidian_flame/325 - Audino - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "326",
+            "name": "Audino (Reverse Holofoil)",
+            "image": "images/obsidian_flame/326 - Audino - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "327",
+            "name": "Bouffalant (Normal)",
+            "image": "images/obsidian_flame/327 - Bouffalant - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "328",
+            "name": "Bouffalant (Reverse Holofoil)",
+            "image": "images/obsidian_flame/328 - Bouffalant - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "329",
+            "name": "Bunnelby (Normal)",
+            "image": "images/obsidian_flame/329 - Bunnelby - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "330",
+            "name": "Bunnelby (Reverse Holofoil)",
+            "image": "images/obsidian_flame/330 - Bunnelby - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "331",
+            "name": "Yungoos (Normal)",
+            "image": "images/obsidian_flame/331 - Yungoos - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "332",
+            "name": "Yungoos (Reverse Holofoil)",
+            "image": "images/obsidian_flame/332 - Yungoos - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "333",
+            "name": "Gumshoos (Normal)",
+            "image": "images/obsidian_flame/333 - Gumshoos - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "334",
+            "name": "Gumshoos (Reverse Holofoil)",
+            "image": "images/obsidian_flame/334 - Gumshoos - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "335",
+            "name": "Skwovet (Normal)",
+            "image": "images/obsidian_flame/335 - Skwovet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "336",
+            "name": "Skwovet (Reverse Holofoil)",
+            "image": "images/obsidian_flame/336 - Skwovet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "337",
+            "name": "Greedent ex (Holofoil)",
+            "image": "images/obsidian_flame/337 - Greedent ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "338",
+            "name": "Lechonk (Normal)",
+            "image": "images/obsidian_flame/338 - Lechonk - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "339",
+            "name": "Lechonk (Reverse Holofoil)",
+            "image": "images/obsidian_flame/339 - Lechonk - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "340",
+            "name": "Lechonk (Normal)",
+            "image": "images/obsidian_flame/340 - Lechonk - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "341",
+            "name": "Lechonk (Reverse Holofoil)",
+            "image": "images/obsidian_flame/341 - Lechonk - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "342",
+            "name": "Lechonk (Normal)",
+            "image": "images/obsidian_flame/342 - Lechonk - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "343",
+            "name": "Lechonk (Reverse Holofoil)",
+            "image": "images/obsidian_flame/343 - Lechonk - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "344",
+            "name": "Oinkologne (Normal)",
+            "image": "images/obsidian_flame/344 - Oinkologne - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "345",
+            "name": "Oinkologne (Reverse Holofoil)",
+            "image": "images/obsidian_flame/345 - Oinkologne - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "346",
+            "name": "Oinkologne (Normal)",
+            "image": "images/obsidian_flame/346 - Oinkologne - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "347",
+            "name": "Oinkologne (Reverse Holofoil)",
+            "image": "images/obsidian_flame/347 - Oinkologne - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "348",
+            "name": "Flamigo (Normal)",
+            "image": "images/obsidian_flame/348 - Flamigo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "349",
+            "name": "Flamigo (Reverse Holofoil)",
+            "image": "images/obsidian_flame/349 - Flamigo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "350",
+            "name": "Arven (Normal)",
+            "image": "images/obsidian_flame/350 - Arven - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "351",
+            "name": "Arven (Reverse Holofoil)",
+            "image": "images/obsidian_flame/351 - Arven - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "352",
+            "name": "Brassius (Normal)",
+            "image": "images/obsidian_flame/352 - Brassius - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "353",
+            "name": "Brassius (Reverse Holofoil)",
+            "image": "images/obsidian_flame/353 - Brassius - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "354",
+            "name": "Geeta (Holofoil)",
+            "image": "images/obsidian_flame/354 - Geeta - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "355",
+            "name": "Geeta (Reverse Holofoil)",
+            "image": "images/obsidian_flame/355 - Geeta - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "356",
+            "name": "Letter of Encouragement (Normal)",
+            "image": "images/obsidian_flame/356 - Letter of Encouragement - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "357",
+            "name": "Letter of Encouragement (Reverse Holofoil)",
+            "image": "images/obsidian_flame/357 - Letter of Encouragement - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "358",
+            "name": "Ortega (Normal)",
+            "image": "images/obsidian_flame/358 - Ortega - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "359",
+            "name": "Ortega (Reverse Holofoil)",
+            "image": "images/obsidian_flame/359 - Ortega - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "360",
+            "name": "Patrol Cap (Normal)",
+            "image": "images/obsidian_flame/360 - Patrol Cap - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "361",
+            "name": "Patrol Cap (Reverse Holofoil)",
+            "image": "images/obsidian_flame/361 - Patrol Cap - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "362",
+            "name": "Pok\u00e9mon League Headquarters (Normal)",
+            "image": "images/obsidian_flame/362 - Pok\u00e9mon League Headquarters - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "363",
+            "name": "Pok\u00e9mon League Headquarters (Reverse Holofoil)",
+            "image": "images/obsidian_flame/363 - Pok\u00e9mon League Headquarters - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "364",
+            "name": "Poppy (Normal)",
+            "image": "images/obsidian_flame/364 - Poppy - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "365",
+            "name": "Poppy (Reverse Holofoil)",
+            "image": "images/obsidian_flame/365 - Poppy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "366",
+            "name": "Ryme (Normal)",
+            "image": "images/obsidian_flame/366 - Ryme - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "367",
+            "name": "Ryme (Reverse Holofoil)",
+            "image": "images/obsidian_flame/367 - Ryme - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "368",
+            "name": "Team Star Grunt (Normal)",
+            "image": "images/obsidian_flame/368 - Team Star Grunt - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "369",
+            "name": "Team Star Grunt (Reverse Holofoil)",
+            "image": "images/obsidian_flame/369 - Team Star Grunt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "370",
+            "name": "Town Store (Normal)",
+            "image": "images/obsidian_flame/370 - Town Store - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "371",
+            "name": "Town Store (Reverse Holofoil)",
+            "image": "images/obsidian_flame/371 - Town Store - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "372",
+            "name": "Vengeful Punch (Normal)",
+            "image": "images/obsidian_flame/372 - Vengeful Punch - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "373",
+            "name": "Vengeful Punch (Reverse Holofoil)",
+            "image": "images/obsidian_flame/373 - Vengeful Punch - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "374",
+            "name": "Gloom (Holofoil)",
+            "image": "images/obsidian_flame/374 - Gloom - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "375",
+            "name": "Ninetales (Holofoil)",
+            "image": "images/obsidian_flame/375 - Ninetales - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "376",
+            "name": "Palafin (Holofoil)",
+            "image": "images/obsidian_flame/376 - Palafin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "377",
+            "name": "Bellibolt (Holofoil)",
+            "image": "images/obsidian_flame/377 - Bellibolt - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "378",
+            "name": "Cleffa (Holofoil)",
+            "image": "images/obsidian_flame/378 - Cleffa - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "379",
+            "name": "Larvitar (Holofoil)",
+            "image": "images/obsidian_flame/379 - Larvitar - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "380",
+            "name": "Houndour (Holofoil)",
+            "image": "images/obsidian_flame/380 - Houndour - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "381",
+            "name": "Scizor (Holofoil)",
+            "image": "images/obsidian_flame/381 - Scizor - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "382",
+            "name": "Varoom (Holofoil)",
+            "image": "images/obsidian_flame/382 - Varoom - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "383",
+            "name": "Pidgey (Holofoil)",
+            "image": "images/obsidian_flame/383 - Pidgey - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "384",
+            "name": "Pidgeotto (Holofoil)",
+            "image": "images/obsidian_flame/384 - Pidgeotto - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "385",
+            "name": "Lechonk (Holofoil)",
+            "image": "images/obsidian_flame/385 - Lechonk - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "386",
+            "name": "Eiscue ex (Holofoil)",
+            "image": "images/obsidian_flame/386 - Eiscue ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "387",
+            "name": "Tyranitar ex (Holofoil)",
+            "image": "images/obsidian_flame/387 - Tyranitar ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "388",
+            "name": "Vespiquen ex (Holofoil)",
+            "image": "images/obsidian_flame/388 - Vespiquen ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "389",
+            "name": "Glimmora ex (Holofoil)",
+            "image": "images/obsidian_flame/389 - Glimmora ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "390",
+            "name": "Absol ex (Holofoil)",
+            "image": "images/obsidian_flame/390 - Absol ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "391",
+            "name": "Charizard ex (Holofoil)",
+            "image": "images/obsidian_flame/391 - Charizard ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "392",
+            "name": "Revavroom ex (Holofoil)",
+            "image": "images/obsidian_flame/392 - Revavroom ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "393",
+            "name": "Pidgeot ex (Holofoil)",
+            "image": "images/obsidian_flame/393 - Pidgeot ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "394",
+            "name": "Geeta (Holofoil)",
+            "image": "images/obsidian_flame/394 - Geeta - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "395",
+            "name": "Ortega (Holofoil)",
+            "image": "images/obsidian_flame/395 - Ortega - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "396",
+            "name": "Poppy (Holofoil)",
+            "image": "images/obsidian_flame/396 - Poppy - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "397",
+            "name": "Ryme (Holofoil)",
+            "image": "images/obsidian_flame/397 - Ryme - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "398",
+            "name": "Eiscue ex (Holofoil)",
+            "image": "images/obsidian_flame/398 - Eiscue ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "399",
+            "name": "Charizard ex (Holofoil)",
+            "image": "images/obsidian_flame/399 - Charizard ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "400",
+            "name": "Revavroom ex (Holofoil)",
+            "image": "images/obsidian_flame/400 - Revavroom ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "401",
+            "name": "Pidgeot ex (Holofoil)",
+            "image": "images/obsidian_flame/401 - Pidgeot ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "402",
+            "name": "Geeta (Holofoil)",
+            "image": "images/obsidian_flame/402 - Geeta - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "403",
+            "name": "Poppy (Holofoil)",
+            "image": "images/obsidian_flame/403 - Poppy - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "404",
+            "name": "Charizard ex (Holofoil)",
+            "image": "images/obsidian_flame/404 - Charizard ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "405",
+            "name": "Artazon (Holofoil)",
+            "image": "images/obsidian_flame/405 - Artazon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "406",
+            "name": "Basic Fire Energy (Holofoil)",
+            "image": "images/obsidian_flame/406 - Basic Fire Energy - (Holofoil).png",
+            "quantity": 0
+        }
+    ]
+}

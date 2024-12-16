@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Binder</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div id="home-screen">
+        <h1>Welcome to your Pokemon Binder</h1>
+        <div id="binder-buttons">
+            <button class="binder-button" onclick="loadBinder('scarlet_violet')">Scarlet Violet</button>
+            <button class="binder-button" onclick="loadBinder('paldea_evolved')">Paldea evolved</button>
+            <button class="binder-button" onclick="loadBinder('obsidian_flame')">Obsidian flame</button>
+            <button class="binder-button" onclick="loadBinder('paradox_rift')">Paradox rift</button>
+            <button class="binder-button" onclick="loadBinder('temporal_forces')">Temporal forces</button>
+            <button class="binder-button" onclick="loadBinder('twilight_masquerade')">Twilight masquerade</button>
+            <button class="binder-button" onclick="loadBinder('stellar_crown')">Stellar Crown</button>
+            <button class="binder-button" onclick="loadBinder('surging_sparks')">Surging Sparks</button>
+        </div>
+    </div>
+    <div id="binder">
+        <h1 id="binder-title"></h1>
+        <input type="hidden" id="set-code">
+        <button id="settings-button" onclick="openSettingsModal()">Settings</button>
+        
+        <div class="key-container">
+            <div class="key-item">
+                <div class="key-color normal"></div>
+                <span>Normal</span>
+            </div>
+            <div class="key-item">
+                <div class="key-color reverse_holofoil"></div>
+                <span>Reverse Holofoil</span>
+            </div>
+            <div class="key-item">
+                <div class="key-color holofoil"></div>
+                <span>Holofoil</span>
+            </div>
+        </div>
+        
+        <div id="binder-view">
+            <div id="binder-pages">
+                {% for page in binder_pages %}
+                    {% for card in page %}
+                        <div class="card" data-card-id="{{ card.id }}">
+                            <img src="{{ card.image }}" alt="{{ card.name }}">
+                            <input type="number" value="{{ card.quantity }}">
+                            <button class="update-quantity" data-set-code="{{ set_code }}" data-card-id="{{ card.id }}">Update</button>
+                        </div>
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+        <div id="progress-container">
+            <div class="progress-wrapper">
+                <div id="card-count"></div>
+                <div id="progress-bar">
+                    <div id="progress"></div>
+                    <div class="progress-marker" style="left: 25%;"></div>
+                    <div class="progress-marker" style="left: 50%;"></div>
+                    <div class="progress-marker" style="left: 75%;"></div>
+                </div>
+                <div id="progress-percentage"></div>
+            </div>
+        </div>
+        <div id="page-controls">
+            <button id="prev-page" class="nav-button nav-button-left"><</button>
+            <div id="page-buttons" class="page-buttons"></div>
+            <button id="next-page" class="nav-button nav-button-right">></button>
+        </div>
+        <button onclick="showHome()">Return to Home</button>
+    
+    </div>
+    
+    <!-- Settings Modal -->
+    <div id="settings-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeSettingsModal()">&times;</span>
+            <h2>Binder Settings</h2>
+            <form id="settings-form">
+                <h3>Binder size:</h3>
+                <label for="binder-width">Width:</label>
+                <input type="number" id="binder-width" name="width" min="1" max="10"><br>
+                <label for="binder-height">Height:</label>
+                <input type="number" id="binder-height" name="height" min="1" max="10"><br><br>
+                <label for="binder-color">Color:</label>
+                <input type="color" id="binder-color" name="color"><br>
+                <button type="button" onclick="updateBinderSettings()">Save</button>
+            </form>
+            <button type="button" onclick="confirmResetBinder()">Reset Binder</button>
+        </div>
+    </div>
+
+    <!-- Reset Confirmation Modal -->
+    <div id="reset-confirmation-modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeResetConfirmationModal()">&times;</span>
+            <h2>Are you sure you want to reset the binder?</h2>
+            <button type="button" onclick="resetBinder()">Yes</button>
+            <button type="button" onclick="closeResetConfirmationModal()">No</button>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

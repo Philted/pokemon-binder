@@ -1,0 +1,2513 @@
+{
+    "set_name": "Surging Sparks",
+    "set_code": "surging_sparks",
+    "settings": {
+        "width": 4,
+        "height": 3,
+        "color": "#c6a810"
+    },
+    "cards": [
+        {
+            "id": "001",
+            "name": "Exeggcute (Normal)",
+            "image": "images/surging_sparks/001 - Exeggcute - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "002",
+            "name": "Exeggcute (Reverse Holofoil)",
+            "image": "images/surging_sparks/002 - Exeggcute - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "003",
+            "name": "Exeggcute (Normal)",
+            "image": "images/surging_sparks/003 - Exeggcute - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "004",
+            "name": "Exeggcute (Reverse Holofoil)",
+            "image": "images/surging_sparks/004 - Exeggcute - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "005",
+            "name": "Exeggutor (Normal)",
+            "image": "images/surging_sparks/005 - Exeggutor - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "006",
+            "name": "Exeggutor (Reverse Holofoil)",
+            "image": "images/surging_sparks/006 - Exeggutor - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "007",
+            "name": "Durant ex (Holofoil)",
+            "image": "images/surging_sparks/007 - Durant ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "008",
+            "name": "Scatterbug (Normal)",
+            "image": "images/surging_sparks/008 - Scatterbug - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "009",
+            "name": "Scatterbug (Reverse Holofoil)",
+            "image": "images/surging_sparks/009 - Scatterbug - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "010",
+            "name": "Spewpa (Normal)",
+            "image": "images/surging_sparks/010 - Spewpa - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "011",
+            "name": "Spewpa (Reverse Holofoil)",
+            "image": "images/surging_sparks/011 - Spewpa - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "012",
+            "name": "Vivillon (Normal)",
+            "image": "images/surging_sparks/012 - Vivillon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "013",
+            "name": "Vivillon (Reverse Holofoil)",
+            "image": "images/surging_sparks/013 - Vivillon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "014",
+            "name": "Morelull (Normal)",
+            "image": "images/surging_sparks/014 - Morelull - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "015",
+            "name": "Morelull (Reverse Holofoil)",
+            "image": "images/surging_sparks/015 - Morelull - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "016",
+            "name": "Shiinotic (Normal)",
+            "image": "images/surging_sparks/016 - Shiinotic - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "017",
+            "name": "Shiinotic (Reverse Holofoil)",
+            "image": "images/surging_sparks/017 - Shiinotic - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "018",
+            "name": "Dhelmise (Normal)",
+            "image": "images/surging_sparks/018 - Dhelmise - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "019",
+            "name": "Dhelmise (Reverse Holofoil)",
+            "image": "images/surging_sparks/019 - Dhelmise - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "020",
+            "name": "Zarude (Holofoil)",
+            "image": "images/surging_sparks/020 - Zarude - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "021",
+            "name": "Zarude (Reverse Holofoil)",
+            "image": "images/surging_sparks/021 - Zarude - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "022",
+            "name": "Capsakid (Normal)",
+            "image": "images/surging_sparks/022 - Capsakid - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "023",
+            "name": "Capsakid (Reverse Holofoil)",
+            "image": "images/surging_sparks/023 - Capsakid - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "024",
+            "name": "Rellor (Normal)",
+            "image": "images/surging_sparks/024 - Rellor - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "025",
+            "name": "Rellor (Reverse Holofoil)",
+            "image": "images/surging_sparks/025 - Rellor - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "026",
+            "name": "Rabsca (Holofoil)",
+            "image": "images/surging_sparks/026 - Rabsca - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "027",
+            "name": "Rabsca (Reverse Holofoil)",
+            "image": "images/surging_sparks/027 - Rabsca - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "028",
+            "name": "Wo-Chien (Normal)",
+            "image": "images/surging_sparks/028 - Wo-Chien - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "029",
+            "name": "Wo-Chien (Reverse Holofoil)",
+            "image": "images/surging_sparks/029 - Wo-Chien - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "030",
+            "name": "Vulpix (Normal)",
+            "image": "images/surging_sparks/030 - Vulpix - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "031",
+            "name": "Vulpix (Reverse Holofoil)",
+            "image": "images/surging_sparks/031 - Vulpix - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "032",
+            "name": "Ninetales (Normal)",
+            "image": "images/surging_sparks/032 - Ninetales - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "033",
+            "name": "Ninetales (Reverse Holofoil)",
+            "image": "images/surging_sparks/033 - Ninetales - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "034",
+            "name": "Paldean Tauros (Normal)",
+            "image": "images/surging_sparks/034 - Paldean Tauros - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "035",
+            "name": "Paldean Tauros (Reverse Holofoil)",
+            "image": "images/surging_sparks/035 - Paldean Tauros - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "036",
+            "name": "Ho-Oh (Normal)",
+            "image": "images/surging_sparks/036 - Ho-Oh - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "037",
+            "name": "Ho-Oh (Reverse Holofoil)",
+            "image": "images/surging_sparks/037 - Ho-Oh - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "038",
+            "name": "Castform Sunny Form (Normal)",
+            "image": "images/surging_sparks/038 - Castform Sunny Form - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "039",
+            "name": "Castform Sunny Form (Reverse Holofoil)",
+            "image": "images/surging_sparks/039 - Castform Sunny Form - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "040",
+            "name": "Victini (Normal)",
+            "image": "images/surging_sparks/040 - Victini - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "041",
+            "name": "Victini (Reverse Holofoil)",
+            "image": "images/surging_sparks/041 - Victini - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "042",
+            "name": "Pansear (Normal)",
+            "image": "images/surging_sparks/042 - Pansear - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "043",
+            "name": "Pansear (Reverse Holofoil)",
+            "image": "images/surging_sparks/043 - Pansear - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "044",
+            "name": "Simisear (Normal)",
+            "image": "images/surging_sparks/044 - Simisear - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "045",
+            "name": "Simisear (Reverse Holofoil)",
+            "image": "images/surging_sparks/045 - Simisear - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "046",
+            "name": "Larvesta (Normal)",
+            "image": "images/surging_sparks/046 - Larvesta - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "047",
+            "name": "Larvesta (Reverse Holofoil)",
+            "image": "images/surging_sparks/047 - Larvesta - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "048",
+            "name": "Volcarona (Normal)",
+            "image": "images/surging_sparks/048 - Volcarona - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "049",
+            "name": "Volcarona (Reverse Holofoil)",
+            "image": "images/surging_sparks/049 - Volcarona - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "050",
+            "name": "Oricorio (Normal)",
+            "image": "images/surging_sparks/050 - Oricorio - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "051",
+            "name": "Oricorio (Reverse Holofoil)",
+            "image": "images/surging_sparks/051 - Oricorio - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "052",
+            "name": "Sizzlipede (Normal)",
+            "image": "images/surging_sparks/052 - Sizzlipede - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "053",
+            "name": "Sizzlipede (Reverse Holofoil)",
+            "image": "images/surging_sparks/053 - Sizzlipede - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "054",
+            "name": "Centiskorch (Normal)",
+            "image": "images/surging_sparks/054 - Centiskorch - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "055",
+            "name": "Centiskorch (Reverse Holofoil)",
+            "image": "images/surging_sparks/055 - Centiskorch - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "057",
+            "name": "Fuecoco (Normal)",
+            "image": "images/surging_sparks/057 - Fuecoco - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "058",
+            "name": "Fuecoco (Reverse Holofoil)",
+            "image": "images/surging_sparks/058 - Fuecoco - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "059",
+            "name": "Crocalor (Normal)",
+            "image": "images/surging_sparks/059 - Crocalor - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "060",
+            "name": "Crocalor (Reverse Holofoil)",
+            "image": "images/surging_sparks/060 - Crocalor - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "061",
+            "name": "Skeledirge (Holofoil)",
+            "image": "images/surging_sparks/061 - Skeledirge - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "062",
+            "name": "Skeledirge (Reverse Holofoil)",
+            "image": "images/surging_sparks/062 - Skeledirge - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "063",
+            "name": "Charcadet (Normal)",
+            "image": "images/surging_sparks/063 - Charcadet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "064",
+            "name": "Charcadet (Reverse Holofoil)",
+            "image": "images/surging_sparks/064 - Charcadet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "065",
+            "name": "Charcadet (Normal)",
+            "image": "images/surging_sparks/065 - Charcadet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "066",
+            "name": "Charcadet (Reverse Holofoil)",
+            "image": "images/surging_sparks/066 - Charcadet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "067",
+            "name": "Armarouge (Normal)",
+            "image": "images/surging_sparks/067 - Armarouge - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "068",
+            "name": "Armarouge (Reverse Holofoil)",
+            "image": "images/surging_sparks/068 - Armarouge - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "069",
+            "name": "Ceruledge (Normal)",
+            "image": "images/surging_sparks/069 - Ceruledge - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "070",
+            "name": "Ceruledge (Reverse Holofoil)",
+            "image": "images/surging_sparks/070 - Ceruledge - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "071",
+            "name": "Ceruledge ex (Holofoil)",
+            "image": "images/surging_sparks/071 - Ceruledge ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "072",
+            "name": "Scovillain ex (Holofoil)",
+            "image": "images/surging_sparks/072 - Scovillain ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "073",
+            "name": "Gouging Fire (Holofoil)",
+            "image": "images/surging_sparks/073 - Gouging Fire - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "074",
+            "name": "Gouging Fire (Reverse Holofoil)",
+            "image": "images/surging_sparks/074 - Gouging Fire - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "075",
+            "name": "Paldean Tauros (Normal)",
+            "image": "images/surging_sparks/075 - Paldean Tauros - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "076",
+            "name": "Paldean Tauros (Reverse Holofoil)",
+            "image": "images/surging_sparks/076 - Paldean Tauros - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "077",
+            "name": "Mantine (Normal)",
+            "image": "images/surging_sparks/077 - Mantine - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "078",
+            "name": "Mantine (Reverse Holofoil)",
+            "image": "images/surging_sparks/078 - Mantine - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "079",
+            "name": "Feebas (Normal)",
+            "image": "images/surging_sparks/079 - Feebas - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "080",
+            "name": "Feebas (Reverse Holofoil)",
+            "image": "images/surging_sparks/080 - Feebas - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "081",
+            "name": "Milotic ex (Holofoil)",
+            "image": "images/surging_sparks/081 - Milotic ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "082",
+            "name": "Spheal (Normal)",
+            "image": "images/surging_sparks/082 - Spheal - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "083",
+            "name": "Spheal (Reverse Holofoil)",
+            "image": "images/surging_sparks/083 - Spheal - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "084",
+            "name": "Sealeo (Normal)",
+            "image": "images/surging_sparks/084 - Sealeo - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "085",
+            "name": "Sealeo (Reverse Holofoil)",
+            "image": "images/surging_sparks/085 - Sealeo - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "086",
+            "name": "Walrein (Normal)",
+            "image": "images/surging_sparks/086 - Walrein - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "087",
+            "name": "Walrein (Reverse Holofoil)",
+            "image": "images/surging_sparks/087 - Walrein - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "088",
+            "name": "Shellos (Normal)",
+            "image": "images/surging_sparks/088 - Shellos - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "089",
+            "name": "Shellos (Reverse Holofoil)",
+            "image": "images/surging_sparks/089 - Shellos - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "090",
+            "name": "Cryogonal (Normal)",
+            "image": "images/surging_sparks/090 - Cryogonal - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "091",
+            "name": "Cryogonal (Reverse Holofoil)",
+            "image": "images/surging_sparks/091 - Cryogonal - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "092",
+            "name": "Black Kyurem ex (Holofoil)",
+            "image": "images/surging_sparks/092 - Black Kyurem ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "093",
+            "name": "Bruxish (Normal)",
+            "image": "images/surging_sparks/093 - Bruxish - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "094",
+            "name": "Bruxish (Reverse Holofoil)",
+            "image": "images/surging_sparks/094 - Bruxish - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "096",
+            "name": "Quaxly (Normal)",
+            "image": "images/surging_sparks/096 - Quaxly - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "097",
+            "name": "Quaxly (Reverse Holofoil)",
+            "image": "images/surging_sparks/097 - Quaxly - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "098",
+            "name": "Quaxwell (Normal)",
+            "image": "images/surging_sparks/098 - Quaxwell - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "099",
+            "name": "Quaxwell (Reverse Holofoil)",
+            "image": "images/surging_sparks/099 - Quaxwell - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "100",
+            "name": "Quaquaval (Normal)",
+            "image": "images/surging_sparks/100 - Quaquaval - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "101",
+            "name": "Quaquaval (Reverse Holofoil)",
+            "image": "images/surging_sparks/101 - Quaquaval - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "102",
+            "name": "Cetoddle (Normal)",
+            "image": "images/surging_sparks/102 - Cetoddle - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "103",
+            "name": "Cetoddle (Reverse Holofoil)",
+            "image": "images/surging_sparks/103 - Cetoddle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "104",
+            "name": "Cetitan (Normal)",
+            "image": "images/surging_sparks/104 - Cetitan - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "105",
+            "name": "Cetitan (Reverse Holofoil)",
+            "image": "images/surging_sparks/105 - Cetitan - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "106",
+            "name": "Iron Bundle (Normal)",
+            "image": "images/surging_sparks/106 - Iron Bundle - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "107",
+            "name": "Iron Bundle (Reverse Holofoil)",
+            "image": "images/surging_sparks/107 - Iron Bundle - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "108",
+            "name": "Chien-Pao (Holofoil)",
+            "image": "images/surging_sparks/108 - Chien-Pao - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "109",
+            "name": "Chien-Pao (Reverse Holofoil)",
+            "image": "images/surging_sparks/109 - Chien-Pao - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "110",
+            "name": "Pikachu ex (Holofoil)",
+            "image": "images/surging_sparks/110 - Pikachu ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "111",
+            "name": "Magnemite (Normal)",
+            "image": "images/surging_sparks/111 - Magnemite - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "112",
+            "name": "Magnemite (Reverse Holofoil)",
+            "image": "images/surging_sparks/112 - Magnemite - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "113",
+            "name": "Magneton (Normal)",
+            "image": "images/surging_sparks/113 - Magneton - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "114",
+            "name": "Magneton (Reverse Holofoil)",
+            "image": "images/surging_sparks/114 - Magneton - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "115",
+            "name": "Magnezone (Normal)",
+            "image": "images/surging_sparks/115 - Magnezone - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "116",
+            "name": "Magnezone (Reverse Holofoil)",
+            "image": "images/surging_sparks/116 - Magnezone - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "117",
+            "name": "Rotom (Normal)",
+            "image": "images/surging_sparks/117 - Rotom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "118",
+            "name": "Rotom (Reverse Holofoil)",
+            "image": "images/surging_sparks/118 - Rotom - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "119",
+            "name": "Blitzle (Normal)",
+            "image": "images/surging_sparks/119 - Blitzle - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "120",
+            "name": "Blitzle (Reverse Holofoil)",
+            "image": "images/surging_sparks/120 - Blitzle - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "121",
+            "name": "Zebstrika (Normal)",
+            "image": "images/surging_sparks/121 - Zebstrika - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "122",
+            "name": "Zebstrika (Reverse Holofoil)",
+            "image": "images/surging_sparks/122 - Zebstrika - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "123",
+            "name": "Stunfisk (Normal)",
+            "image": "images/surging_sparks/123 - Stunfisk - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "124",
+            "name": "Stunfisk (Reverse Holofoil)",
+            "image": "images/surging_sparks/124 - Stunfisk - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "125",
+            "name": "Tapu Koko (Holofoil)",
+            "image": "images/surging_sparks/125 - Tapu Koko - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "126",
+            "name": "Tapu Koko (Reverse Holofoil)",
+            "image": "images/surging_sparks/126 - Tapu Koko - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "127",
+            "name": "Wattrel (Normal)",
+            "image": "images/surging_sparks/127 - Wattrel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "128",
+            "name": "Wattrel (Reverse Holofoil)",
+            "image": "images/surging_sparks/128 - Wattrel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "129",
+            "name": "Kilowattrel (Normal)",
+            "image": "images/surging_sparks/129 - Kilowattrel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "130",
+            "name": "Kilowattrel (Reverse Holofoil)",
+            "image": "images/surging_sparks/130 - Kilowattrel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "131",
+            "name": "Kilowattrel ex (Holofoil)",
+            "image": "images/surging_sparks/131 - Kilowattrel ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "132",
+            "name": "Miraidon (Normal)",
+            "image": "images/surging_sparks/132 - Miraidon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "133",
+            "name": "Miraidon (Reverse Holofoil)",
+            "image": "images/surging_sparks/133 - Miraidon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "134",
+            "name": "Togepi (Normal)",
+            "image": "images/surging_sparks/134 - Togepi - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "135",
+            "name": "Togepi (Reverse Holofoil)",
+            "image": "images/surging_sparks/135 - Togepi - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "136",
+            "name": "Togetic (Normal)",
+            "image": "images/surging_sparks/136 - Togetic - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "137",
+            "name": "Togetic (Reverse Holofoil)",
+            "image": "images/surging_sparks/137 - Togetic - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "138",
+            "name": "Togekiss (Holofoil)",
+            "image": "images/surging_sparks/138 - Togekiss - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "139",
+            "name": "Togekiss (Reverse Holofoil)",
+            "image": "images/surging_sparks/139 - Togekiss - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "140",
+            "name": "Marill (Normal)",
+            "image": "images/surging_sparks/140 - Marill - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "141",
+            "name": "Marill (Reverse Holofoil)",
+            "image": "images/surging_sparks/141 - Marill - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "142",
+            "name": "Azumarill (Normal)",
+            "image": "images/surging_sparks/142 - Azumarill - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "143",
+            "name": "Azumarill (Reverse Holofoil)",
+            "image": "images/surging_sparks/143 - Azumarill - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "144",
+            "name": "Smoochum (Normal)",
+            "image": "images/surging_sparks/144 - Smoochum - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "145",
+            "name": "Smoochum (Reverse Holofoil)",
+            "image": "images/surging_sparks/145 - Smoochum - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "146",
+            "name": "Latias ex (Holofoil)",
+            "image": "images/surging_sparks/146 - Latias ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "147",
+            "name": "Latios (Normal)",
+            "image": "images/surging_sparks/147 - Latios - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "148",
+            "name": "Latios (Reverse Holofoil)",
+            "image": "images/surging_sparks/148 - Latios - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "149",
+            "name": "Uxie (Normal)",
+            "image": "images/surging_sparks/149 - Uxie - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "150",
+            "name": "Uxie (Reverse Holofoil)",
+            "image": "images/surging_sparks/150 - Uxie - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "151",
+            "name": "Mesprit (Normal)",
+            "image": "images/surging_sparks/151 - Mesprit - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "152",
+            "name": "Mesprit (Reverse Holofoil)",
+            "image": "images/surging_sparks/152 - Mesprit - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "153",
+            "name": "Azelf (Normal)",
+            "image": "images/surging_sparks/153 - Azelf - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "154",
+            "name": "Azelf (Reverse Holofoil)",
+            "image": "images/surging_sparks/154 - Azelf - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "155",
+            "name": "Sigilyph (Normal)",
+            "image": "images/surging_sparks/155 - Sigilyph - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "156",
+            "name": "Sigilyph (Reverse Holofoil)",
+            "image": "images/surging_sparks/156 - Sigilyph - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "157",
+            "name": "Yamask (Normal)",
+            "image": "images/surging_sparks/157 - Yamask - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "158",
+            "name": "Yamask (Reverse Holofoil)",
+            "image": "images/surging_sparks/158 - Yamask - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "159",
+            "name": "Cofagrigus (Holofoil)",
+            "image": "images/surging_sparks/159 - Cofagrigus - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "160",
+            "name": "Cofagrigus (Reverse Holofoil)",
+            "image": "images/surging_sparks/160 - Cofagrigus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "161",
+            "name": "Espurr (Normal)",
+            "image": "images/surging_sparks/161 - Espurr - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "162",
+            "name": "Espurr (Reverse Holofoil)",
+            "image": "images/surging_sparks/162 - Espurr - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "163",
+            "name": "Meowstic (Normal)",
+            "image": "images/surging_sparks/163 - Meowstic - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "164",
+            "name": "Meowstic (Reverse Holofoil)",
+            "image": "images/surging_sparks/164 - Meowstic - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "165",
+            "name": "Sylveon ex (Holofoil)",
+            "image": "images/surging_sparks/165 - Sylveon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "166",
+            "name": "Dedenne (Normal)",
+            "image": "images/surging_sparks/166 - Dedenne - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "167",
+            "name": "Dedenne (Reverse Holofoil)",
+            "image": "images/surging_sparks/167 - Dedenne - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "168",
+            "name": "Xerneas (Normal)",
+            "image": "images/surging_sparks/168 - Xerneas - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "169",
+            "name": "Xerneas (Reverse Holofoil)",
+            "image": "images/surging_sparks/169 - Xerneas - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "170",
+            "name": "Oricorio (Normal)",
+            "image": "images/surging_sparks/170 - Oricorio - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "171",
+            "name": "Oricorio (Reverse Holofoil)",
+            "image": "images/surging_sparks/171 - Oricorio - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "172",
+            "name": "Sandygast (Normal)",
+            "image": "images/surging_sparks/172 - Sandygast - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "173",
+            "name": "Sandygast (Reverse Holofoil)",
+            "image": "images/surging_sparks/173 - Sandygast - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "174",
+            "name": "Palossand ex (Holofoil)",
+            "image": "images/surging_sparks/174 - Palossand ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "175",
+            "name": "Tapu Lele (Holofoil)",
+            "image": "images/surging_sparks/175 - Tapu Lele - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "176",
+            "name": "Tapu Lele (Reverse Holofoil)",
+            "image": "images/surging_sparks/176 - Tapu Lele - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "177",
+            "name": "Indeedee (Normal)",
+            "image": "images/surging_sparks/177 - Indeedee - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "178",
+            "name": "Indeedee (Reverse Holofoil)",
+            "image": "images/surging_sparks/178 - Indeedee - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "179",
+            "name": "Flittle (Normal)",
+            "image": "images/surging_sparks/179 - Flittle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "180",
+            "name": "Flittle (Reverse Holofoil)",
+            "image": "images/surging_sparks/180 - Flittle - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "181",
+            "name": "Espathra (Normal)",
+            "image": "images/surging_sparks/181 - Espathra - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "182",
+            "name": "Espathra (Reverse Holofoil)",
+            "image": "images/surging_sparks/182 - Espathra - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "183",
+            "name": "Flutter Mane (Normal)",
+            "image": "images/surging_sparks/183 - Flutter Mane - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "184",
+            "name": "Flutter Mane (Reverse Holofoil)",
+            "image": "images/surging_sparks/184 - Flutter Mane - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "185",
+            "name": "Gimmighoul (Normal)",
+            "image": "images/surging_sparks/185 - Gimmighoul - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "186",
+            "name": "Gimmighoul (Reverse Holofoil)",
+            "image": "images/surging_sparks/186 - Gimmighoul - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "187",
+            "name": "Mankey (Normal)",
+            "image": "images/surging_sparks/187 - Mankey - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "188",
+            "name": "Mankey (Reverse Holofoil)",
+            "image": "images/surging_sparks/188 - Mankey - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "189",
+            "name": "Primeape (Normal)",
+            "image": "images/surging_sparks/189 - Primeape - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "190",
+            "name": "Primeape (Reverse Holofoil)",
+            "image": "images/surging_sparks/190 - Primeape - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "191",
+            "name": "Annihilape (Normal)",
+            "image": "images/surging_sparks/191 - Annihilape - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "192",
+            "name": "Annihilape (Reverse Holofoil)",
+            "image": "images/surging_sparks/192 - Annihilape - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "193",
+            "name": "Paldean Tauros (Normal)",
+            "image": "images/surging_sparks/193 - Paldean Tauros - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "194",
+            "name": "Paldean Tauros (Reverse Holofoil)",
+            "image": "images/surging_sparks/194 - Paldean Tauros - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "195",
+            "name": "Phanpy (Normal)",
+            "image": "images/surging_sparks/195 - Phanpy - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "196",
+            "name": "Phanpy (Reverse Holofoil)",
+            "image": "images/surging_sparks/196 - Phanpy - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "197",
+            "name": "Donphan (Normal)",
+            "image": "images/surging_sparks/197 - Donphan - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "198",
+            "name": "Donphan (Reverse Holofoil)",
+            "image": "images/surging_sparks/198 - Donphan - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "199",
+            "name": "Trapinch (Normal)",
+            "image": "images/surging_sparks/199 - Trapinch - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "200",
+            "name": "Trapinch (Reverse Holofoil)",
+            "image": "images/surging_sparks/200 - Trapinch - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "201",
+            "name": "Vibrava (Normal)",
+            "image": "images/surging_sparks/201 - Vibrava - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "202",
+            "name": "Vibrava (Reverse Holofoil)",
+            "image": "images/surging_sparks/202 - Vibrava - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "203",
+            "name": "Flygon ex (Holofoil)",
+            "image": "images/surging_sparks/203 - Flygon ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "204",
+            "name": "Gastrodon (Holofoil)",
+            "image": "images/surging_sparks/204 - Gastrodon - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "205",
+            "name": "Gastrodon (Reverse Holofoil)",
+            "image": "images/surging_sparks/205 - Gastrodon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "206",
+            "name": "Drilbur (Normal)",
+            "image": "images/surging_sparks/206 - Drilbur - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "207",
+            "name": "Drilbur (Reverse Holofoil)",
+            "image": "images/surging_sparks/207 - Drilbur - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "208",
+            "name": "Excadrill (Normal)",
+            "image": "images/surging_sparks/208 - Excadrill - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "209",
+            "name": "Excadrill (Reverse Holofoil)",
+            "image": "images/surging_sparks/209 - Excadrill - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "210",
+            "name": "Landorus (Holofoil)",
+            "image": "images/surging_sparks/210 - Landorus - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "211",
+            "name": "Landorus (Reverse Holofoil)",
+            "image": "images/surging_sparks/211 - Landorus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "212",
+            "name": "Passimian (Normal)",
+            "image": "images/surging_sparks/212 - Passimian - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "213",
+            "name": "Passimian (Reverse Holofoil)",
+            "image": "images/surging_sparks/213 - Passimian - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "214",
+            "name": "Clobbopus (Normal)",
+            "image": "images/surging_sparks/214 - Clobbopus - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "215",
+            "name": "Clobbopus (Reverse Holofoil)",
+            "image": "images/surging_sparks/215 - Clobbopus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "216",
+            "name": "Grapploct (Normal)",
+            "image": "images/surging_sparks/216 - Grapploct - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "217",
+            "name": "Grapploct (Reverse Holofoil)",
+            "image": "images/surging_sparks/217 - Grapploct - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "218",
+            "name": "Glimmet (Normal)",
+            "image": "images/surging_sparks/218 - Glimmet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "219",
+            "name": "Glimmet (Reverse Holofoil)",
+            "image": "images/surging_sparks/219 - Glimmet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "220",
+            "name": "Glimmora (Normal)",
+            "image": "images/surging_sparks/220 - Glimmora - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "221",
+            "name": "Glimmora (Reverse Holofoil)",
+            "image": "images/surging_sparks/221 - Glimmora - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "222",
+            "name": "Koraidon (Normal)",
+            "image": "images/surging_sparks/222 - Koraidon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "223",
+            "name": "Koraidon (Reverse Holofoil)",
+            "image": "images/surging_sparks/223 - Koraidon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "224",
+            "name": "Deino (Normal)",
+            "image": "images/surging_sparks/224 - Deino - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "225",
+            "name": "Deino (Reverse Holofoil)",
+            "image": "images/surging_sparks/225 - Deino - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "226",
+            "name": "Zweilous (Normal)",
+            "image": "images/surging_sparks/226 - Zweilous - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "227",
+            "name": "Zweilous (Reverse Holofoil)",
+            "image": "images/surging_sparks/227 - Zweilous - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "228",
+            "name": "Hydreigon ex (Holofoil)",
+            "image": "images/surging_sparks/228 - Hydreigon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "229",
+            "name": "Shroodle (Normal)",
+            "image": "images/surging_sparks/229 - Shroodle - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "230",
+            "name": "Shroodle (Reverse Holofoil)",
+            "image": "images/surging_sparks/230 - Shroodle - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "231",
+            "name": "Grafaiai (Normal)",
+            "image": "images/surging_sparks/231 - Grafaiai - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "232",
+            "name": "Grafaiai (Reverse Holofoil)",
+            "image": "images/surging_sparks/232 - Grafaiai - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "233",
+            "name": "Alolan Diglett (Normal)",
+            "image": "images/surging_sparks/233 - Alolan Diglett - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "234",
+            "name": "Alolan Diglett (Reverse Holofoil)",
+            "image": "images/surging_sparks/234 - Alolan Diglett - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "235",
+            "name": "Alolan Dugtrio (Normal)",
+            "image": "images/surging_sparks/235 - Alolan Dugtrio - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "236",
+            "name": "Alolan Dugtrio (Reverse Holofoil)",
+            "image": "images/surging_sparks/236 - Alolan Dugtrio - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "237",
+            "name": "Skarmory (Normal)",
+            "image": "images/surging_sparks/237 - Skarmory - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "238",
+            "name": "Skarmory (Reverse Holofoil)",
+            "image": "images/surging_sparks/238 - Skarmory - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "239",
+            "name": "Registeel (Normal)",
+            "image": "images/surging_sparks/239 - Registeel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "240",
+            "name": "Registeel (Reverse Holofoil)",
+            "image": "images/surging_sparks/240 - Registeel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "241",
+            "name": "Bronzor (Normal)",
+            "image": "images/surging_sparks/241 - Bronzor - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "242",
+            "name": "Bronzor (Reverse Holofoil)",
+            "image": "images/surging_sparks/242 - Bronzor - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "243",
+            "name": "Bronzong (Normal)",
+            "image": "images/surging_sparks/243 - Bronzong - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "244",
+            "name": "Bronzong (Reverse Holofoil)",
+            "image": "images/surging_sparks/244 - Bronzong - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "245",
+            "name": "Klefki (Normal)",
+            "image": "images/surging_sparks/245 - Klefki - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "246",
+            "name": "Klefki (Reverse Holofoil)",
+            "image": "images/surging_sparks/246 - Klefki - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "247",
+            "name": "Duraludon (Normal)",
+            "image": "images/surging_sparks/247 - Duraludon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "248",
+            "name": "Duraludon (Reverse Holofoil)",
+            "image": "images/surging_sparks/248 - Duraludon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "249",
+            "name": "Archaludon ex (Holofoil)",
+            "image": "images/surging_sparks/249 - Archaludon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "250",
+            "name": "Gholdengo (Normal)",
+            "image": "images/surging_sparks/250 - Gholdengo - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "251",
+            "name": "Gholdengo (Reverse Holofoil)",
+            "image": "images/surging_sparks/251 - Gholdengo - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "252",
+            "name": "Iron Crown (Holofoil)",
+            "image": "images/surging_sparks/252 - Iron Crown - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "253",
+            "name": "Iron Crown (Reverse Holofoil)",
+            "image": "images/surging_sparks/253 - Iron Crown - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "254",
+            "name": "Alolan Exeggutor ex (Holofoil)",
+            "image": "images/surging_sparks/254 - Alolan Exeggutor ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "255",
+            "name": "Altaria (Normal)",
+            "image": "images/surging_sparks/255 - Altaria - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "256",
+            "name": "Altaria (Reverse Holofoil)",
+            "image": "images/surging_sparks/256 - Altaria - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "257",
+            "name": "Dialga (Holofoil)",
+            "image": "images/surging_sparks/257 - Dialga - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "258",
+            "name": "Dialga (Reverse Holofoil)",
+            "image": "images/surging_sparks/258 - Dialga - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "259",
+            "name": "Palkia (Holofoil)",
+            "image": "images/surging_sparks/259 - Palkia - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "260",
+            "name": "Palkia (Reverse Holofoil)",
+            "image": "images/surging_sparks/260 - Palkia - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "261",
+            "name": "Turtonator (Normal)",
+            "image": "images/surging_sparks/261 - Turtonator - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "262",
+            "name": "Turtonator (Reverse Holofoil)",
+            "image": "images/surging_sparks/262 - Turtonator - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "263",
+            "name": "Applin (Normal)",
+            "image": "images/surging_sparks/263 - Applin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "264",
+            "name": "Applin (Reverse Holofoil)",
+            "image": "images/surging_sparks/264 - Applin - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "265",
+            "name": "Flapple (Normal)",
+            "image": "images/surging_sparks/265 - Flapple - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "266",
+            "name": "Flapple (Reverse Holofoil)",
+            "image": "images/surging_sparks/266 - Flapple - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "267",
+            "name": "Appletun (Normal)",
+            "image": "images/surging_sparks/267 - Appletun - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "268",
+            "name": "Appletun (Reverse Holofoil)",
+            "image": "images/surging_sparks/268 - Appletun - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "269",
+            "name": "Eternatus (Holofoil)",
+            "image": "images/surging_sparks/269 - Eternatus - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "270",
+            "name": "Eternatus (Reverse Holofoil)",
+            "image": "images/surging_sparks/270 - Eternatus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "271",
+            "name": "Tatsugiri ex (Holofoil)",
+            "image": "images/surging_sparks/271 - Tatsugiri ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "272",
+            "name": "Eevee (Normal)",
+            "image": "images/surging_sparks/272 - Eevee - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "273",
+            "name": "Eevee (Reverse Holofoil)",
+            "image": "images/surging_sparks/273 - Eevee - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "274",
+            "name": "Snorlax (Normal)",
+            "image": "images/surging_sparks/274 - Snorlax - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "275",
+            "name": "Snorlax (Reverse Holofoil)",
+            "image": "images/surging_sparks/275 - Snorlax - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "276",
+            "name": "Slakoth (Normal)",
+            "image": "images/surging_sparks/276 - Slakoth - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "277",
+            "name": "Slakoth (Reverse Holofoil)",
+            "image": "images/surging_sparks/277 - Slakoth - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "278",
+            "name": "Vigoroth (Normal)",
+            "image": "images/surging_sparks/278 - Vigoroth - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "279",
+            "name": "Vigoroth (Reverse Holofoil)",
+            "image": "images/surging_sparks/279 - Vigoroth - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "280",
+            "name": "Slaking ex (Holofoil)",
+            "image": "images/surging_sparks/280 - Slaking ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "281",
+            "name": "Swablu (Normal)",
+            "image": "images/surging_sparks/281 - Swablu - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "282",
+            "name": "Swablu (Reverse Holofoil)",
+            "image": "images/surging_sparks/282 - Swablu - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "283",
+            "name": "Zangoose (Normal)",
+            "image": "images/surging_sparks/283 - Zangoose - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "284",
+            "name": "Zangoose (Reverse Holofoil)",
+            "image": "images/surging_sparks/284 - Zangoose - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "285",
+            "name": "Kecleon (Normal)",
+            "image": "images/surging_sparks/285 - Kecleon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "286",
+            "name": "Kecleon (Reverse Holofoil)",
+            "image": "images/surging_sparks/286 - Kecleon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "287",
+            "name": "Bouffalant (Normal)",
+            "image": "images/surging_sparks/287 - Bouffalant - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "288",
+            "name": "Bouffalant (Reverse Holofoil)",
+            "image": "images/surging_sparks/288 - Bouffalant - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "289",
+            "name": "Rufflet (Normal)",
+            "image": "images/surging_sparks/289 - Rufflet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "290",
+            "name": "Rufflet (Reverse Holofoil)",
+            "image": "images/surging_sparks/290 - Rufflet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "291",
+            "name": "Braviary (Normal)",
+            "image": "images/surging_sparks/291 - Braviary - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "292",
+            "name": "Braviary (Reverse Holofoil)",
+            "image": "images/surging_sparks/292 - Braviary - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "293",
+            "name": "Helioptile (Normal)",
+            "image": "images/surging_sparks/293 - Helioptile - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "294",
+            "name": "Helioptile (Reverse Holofoil)",
+            "image": "images/surging_sparks/294 - Helioptile - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "295",
+            "name": "Heliolisk (Normal)",
+            "image": "images/surging_sparks/295 - Heliolisk - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "296",
+            "name": "Heliolisk (Reverse Holofoil)",
+            "image": "images/surging_sparks/296 - Heliolisk - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "297",
+            "name": "Oranguru (Normal)",
+            "image": "images/surging_sparks/297 - Oranguru - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "298",
+            "name": "Oranguru (Reverse Holofoil)",
+            "image": "images/surging_sparks/298 - Oranguru - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "299",
+            "name": "Tandemaus (Normal)",
+            "image": "images/surging_sparks/299 - Tandemaus - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "300",
+            "name": "Tandemaus (Reverse Holofoil)",
+            "image": "images/surging_sparks/300 - Tandemaus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "301",
+            "name": "Maushold (Normal)",
+            "image": "images/surging_sparks/301 - Maushold - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "302",
+            "name": "Maushold (Reverse Holofoil)",
+            "image": "images/surging_sparks/302 - Maushold - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "303",
+            "name": "Cyclizar ex (Holofoil)",
+            "image": "images/surging_sparks/303 - Cyclizar ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "304",
+            "name": "Flamigo ex (Holofoil)",
+            "image": "images/surging_sparks/304 - Flamigo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "306",
+            "name": "Terapagos (Holofoil)",
+            "image": "images/surging_sparks/306 - Terapagos - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "307",
+            "name": "Terapagos (Reverse Holofoil)",
+            "image": "images/surging_sparks/307 - Terapagos - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "308",
+            "name": "Amulet of Hope (Holofoil)",
+            "image": "images/surging_sparks/308 - Amulet of Hope - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "309",
+            "name": "Babiri Berry (Normal)",
+            "image": "images/surging_sparks/309 - Babiri Berry - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "310",
+            "name": "Babiri Berry (Reverse Holofoil)",
+            "image": "images/surging_sparks/310 - Babiri Berry - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "311",
+            "name": "Brilliant Blender (Holofoil)",
+            "image": "images/surging_sparks/311 - Brilliant Blender - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "312",
+            "name": "Call Bell (Normal)",
+            "image": "images/surging_sparks/312 - Call Bell - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "313",
+            "name": "Call Bell (Reverse Holofoil)",
+            "image": "images/surging_sparks/313 - Call Bell - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "314",
+            "name": "Chill Teaser Toy (Normal)",
+            "image": "images/surging_sparks/314 - Chill Teaser Toy - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "315",
+            "name": "Chill Teaser Toy (Reverse Holofoil)",
+            "image": "images/surging_sparks/315 - Chill Teaser Toy - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "316",
+            "name": "Clemont's Quick Wit (Normal)",
+            "image": "images/surging_sparks/316 - Clemont's Quick Wit - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "317",
+            "name": "Clemont's Quick Wit (Reverse Holofoil)",
+            "image": "images/surging_sparks/317 - Clemont's Quick Wit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "318",
+            "name": "Colbur Berry (Normal)",
+            "image": "images/surging_sparks/318 - Colbur Berry - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "319",
+            "name": "Colbur Berry (Reverse Holofoil)",
+            "image": "images/surging_sparks/319 - Colbur Berry - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "320",
+            "name": "Counter Gain (Normal)",
+            "image": "images/surging_sparks/320 - Counter Gain - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "321",
+            "name": "Counter Gain (Reverse Holofoil)",
+            "image": "images/surging_sparks/321 - Counter Gain - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "322",
+            "name": "Cyrano (Normal)",
+            "image": "images/surging_sparks/322 - Cyrano - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "323",
+            "name": "Cyrano (Reverse Holofoil)",
+            "image": "images/surging_sparks/323 - Cyrano - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "324",
+            "name": "Deduction Kit (Normal)",
+            "image": "images/surging_sparks/324 - Deduction Kit - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "325",
+            "name": "Deduction Kit (Reverse Holofoil)",
+            "image": "images/surging_sparks/325 - Deduction Kit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "326",
+            "name": "Dragon Elixir (Normal)",
+            "image": "images/surging_sparks/326 - Dragon Elixir - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "327",
+            "name": "Dragon Elixir (Reverse Holofoil)",
+            "image": "images/surging_sparks/327 - Dragon Elixir - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "328",
+            "name": "Drasna (Normal)",
+            "image": "images/surging_sparks/328 - Drasna - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "329",
+            "name": "Drasna (Reverse Holofoil)",
+            "image": "images/surging_sparks/329 - Drasna - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "330",
+            "name": "Drayton (Normal)",
+            "image": "images/surging_sparks/330 - Drayton - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "331",
+            "name": "Drayton (Reverse Holofoil)",
+            "image": "images/surging_sparks/331 - Drayton - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "332",
+            "name": "Dusk Ball (Normal)",
+            "image": "images/surging_sparks/332 - Dusk Ball - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "333",
+            "name": "Dusk Ball (Reverse Holofoil)",
+            "image": "images/surging_sparks/333 - Dusk Ball - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "334",
+            "name": "Energy Search Pro (Holofoil)",
+            "image": "images/surging_sparks/334 - Energy Search Pro - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "335",
+            "name": "Gravity Mountain (Normal)",
+            "image": "images/surging_sparks/335 - Gravity Mountain - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "336",
+            "name": "Gravity Mountain (Reverse Holofoil)",
+            "image": "images/surging_sparks/336 - Gravity Mountain - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "337",
+            "name": "Jasmine's Gaze (Normal)",
+            "image": "images/surging_sparks/337 - Jasmine's Gaze - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "338",
+            "name": "Jasmine's Gaze (Reverse Holofoil)",
+            "image": "images/surging_sparks/338 - Jasmine's Gaze - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "339",
+            "name": "Lisia's Appeal (Normal)",
+            "image": "images/surging_sparks/339 - Lisia's Appeal - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "340",
+            "name": "Lisia's Appeal (Reverse Holofoil)",
+            "image": "images/surging_sparks/340 - Lisia's Appeal - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "341",
+            "name": "Lively Stadium (Normal)",
+            "image": "images/surging_sparks/341 - Lively Stadium - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "342",
+            "name": "Lively Stadium (Reverse Holofoil)",
+            "image": "images/surging_sparks/342 - Lively Stadium - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "343",
+            "name": "Meddling Memo (Normal)",
+            "image": "images/surging_sparks/343 - Meddling Memo - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "344",
+            "name": "Meddling Memo (Reverse Holofoil)",
+            "image": "images/surging_sparks/344 - Meddling Memo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "345",
+            "name": "Megaton Blower (Holofoil)",
+            "image": "images/surging_sparks/345 - Megaton Blower - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "346",
+            "name": "Miracle Headset (Holofoil)",
+            "image": "images/surging_sparks/346 - Miracle Headset - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "347",
+            "name": "Passho Berry (Normal)",
+            "image": "images/surging_sparks/347 - Passho Berry - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "348",
+            "name": "Passho Berry (Reverse Holofoil)",
+            "image": "images/surging_sparks/348 - Passho Berry - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "349",
+            "name": "Precious Trolley (Holofoil)",
+            "image": "images/surging_sparks/349 - Precious Trolley - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "350",
+            "name": "Scramble Switch (Holofoil)",
+            "image": "images/surging_sparks/350 - Scramble Switch - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "351",
+            "name": "Surfer (Normal)",
+            "image": "images/surging_sparks/351 - Surfer - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "352",
+            "name": "Surfer (Reverse Holofoil)",
+            "image": "images/surging_sparks/352 - Surfer - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "353",
+            "name": "Technical Machine (Normal)",
+            "image": "images/surging_sparks/353 - Technical Machine - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "354",
+            "name": "Technical Machine (Reverse Holofoil)",
+            "image": "images/surging_sparks/354 - Technical Machine - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "355",
+            "name": "Tera Orb (Normal)",
+            "image": "images/surging_sparks/355 - Tera Orb - (Normal).png",
+            "quantity": 2
+        },
+        {
+            "id": "356",
+            "name": "Tera Orb (Reverse Holofoil)",
+            "image": "images/surging_sparks/356 - Tera Orb - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "357",
+            "name": "Tyme (Normal)",
+            "image": "images/surging_sparks/357 - Tyme - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "358",
+            "name": "Tyme (Reverse Holofoil)",
+            "image": "images/surging_sparks/358 - Tyme - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "359",
+            "name": "Enriching Energy (Holofoil)",
+            "image": "images/surging_sparks/359 - Enriching Energy - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "360",
+            "name": "Exeggcute (Holofoil)",
+            "image": "images/surging_sparks/360 - Exeggcute - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "361",
+            "name": "Vivillon (Holofoil)",
+            "image": "images/surging_sparks/361 - Vivillon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "362",
+            "name": "Shiinotic (Holofoil)",
+            "image": "images/surging_sparks/362 - Shiinotic - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "363",
+            "name": "Castform Sunny Form (Holofoil)",
+            "image": "images/surging_sparks/363 - Castform Sunny Form - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "364",
+            "name": "Larvesta (Holofoil)",
+            "image": "images/surging_sparks/364 - Larvesta - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "365",
+            "name": "Ceruledge (Holofoil)",
+            "image": "images/surging_sparks/365 - Ceruledge - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "366",
+            "name": "Feebas (Holofoil)",
+            "image": "images/surging_sparks/366 - Feebas - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "367",
+            "name": "Spheal (Holofoil)",
+            "image": "images/surging_sparks/367 - Spheal - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "368",
+            "name": "Bruxish (Holofoil)",
+            "image": "images/surging_sparks/368 - Bruxish - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "369",
+            "name": "Cetitan (Holofoil)",
+            "image": "images/surging_sparks/369 - Cetitan - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "370",
+            "name": "Stunfisk (Holofoil)",
+            "image": "images/surging_sparks/370 - Stunfisk - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "371",
+            "name": "Latios (Holofoil)",
+            "image": "images/surging_sparks/371 - Latios - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "372",
+            "name": "Mesprit (Holofoil)",
+            "image": "images/surging_sparks/372 - Mesprit - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "373",
+            "name": "Phanpy (Holofoil)",
+            "image": "images/surging_sparks/373 - Phanpy - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "374",
+            "name": "Vibrava (Holofoil)",
+            "image": "images/surging_sparks/374 - Vibrava - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "375",
+            "name": "Clobbopus (Holofoil)",
+            "image": "images/surging_sparks/375 - Clobbopus - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "376",
+            "name": "Alolan Dugtrio (Holofoil)",
+            "image": "images/surging_sparks/376 - Alolan Dugtrio - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "377",
+            "name": "Skarmory (Holofoil)",
+            "image": "images/surging_sparks/377 - Skarmory - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "378",
+            "name": "Flapple (Holofoil)",
+            "image": "images/surging_sparks/378 - Flapple - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "379",
+            "name": "Appletun (Holofoil)",
+            "image": "images/surging_sparks/379 - Appletun - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "380",
+            "name": "Slakoth (Holofoil)",
+            "image": "images/surging_sparks/380 - Slakoth - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "381",
+            "name": "Kecleon (Holofoil)",
+            "image": "images/surging_sparks/381 - Kecleon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "382",
+            "name": "Braviary (Holofoil)",
+            "image": "images/surging_sparks/382 - Braviary - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "383",
+            "name": "Durant ex (Holofoil)",
+            "image": "images/surging_sparks/383 - Durant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "384",
+            "name": "Scovillain ex (Holofoil)",
+            "image": "images/surging_sparks/384 - Scovillain ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "385",
+            "name": "Milotic ex (Holofoil)",
+            "image": "images/surging_sparks/385 - Milotic ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "386",
+            "name": "Black Kyurem ex (Holofoil)",
+            "image": "images/surging_sparks/386 - Black Kyurem ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "387",
+            "name": "Pikachu ex (Holofoil)",
+            "image": "images/surging_sparks/387 - Pikachu ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "388",
+            "name": "Latias ex (Holofoil)",
+            "image": "images/surging_sparks/388 - Latias ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "389",
+            "name": "Palossand ex (Holofoil)",
+            "image": "images/surging_sparks/389 - Palossand ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "390",
+            "name": "Flygon ex (Holofoil)",
+            "image": "images/surging_sparks/390 - Flygon ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "391",
+            "name": "Hydreigon ex (Holofoil)",
+            "image": "images/surging_sparks/391 - Hydreigon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "392",
+            "name": "Archaludon ex (Holofoil)",
+            "image": "images/surging_sparks/392 - Archaludon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "393",
+            "name": "Alolan Exeggutor ex (Holofoil)",
+            "image": "images/surging_sparks/393 - Alolan Exeggutor ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "394",
+            "name": "Tatsugiri ex (Holofoil)",
+            "image": "images/surging_sparks/394 - Tatsugiri ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "395",
+            "name": "Slaking ex (Holofoil)",
+            "image": "images/surging_sparks/395 - Slaking ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "396",
+            "name": "Cyclizar ex (Holofoil)",
+            "image": "images/surging_sparks/396 - Cyclizar ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "397",
+            "name": "Clemont's Quick Wit (Holofoil)",
+            "image": "images/surging_sparks/397 - Clemont's Quick Wit - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "398",
+            "name": "Cyrano (Holofoil)",
+            "image": "images/surging_sparks/398 - Cyrano - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "399",
+            "name": "Drasna (Holofoil)",
+            "image": "images/surging_sparks/399 - Drasna - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "400",
+            "name": "Drayton (Holofoil)",
+            "image": "images/surging_sparks/400 - Drayton - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "401",
+            "name": "Jasmine's Gaze (Holofoil)",
+            "image": "images/surging_sparks/401 - Jasmine's Gaze - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "402",
+            "name": "Lisia's Appeal (Holofoil)",
+            "image": "images/surging_sparks/402 - Lisia's Appeal - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "403",
+            "name": "Surfer (Holofoil)",
+            "image": "images/surging_sparks/403 - Surfer - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "404",
+            "name": "Durant ex (Holofoil)",
+            "image": "images/surging_sparks/404 - Durant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "405",
+            "name": "Milotic ex (Holofoil)",
+            "image": "images/surging_sparks/405 - Milotic ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "406",
+            "name": "Pikachu ex (Holofoil)",
+            "image": "images/surging_sparks/406 - Pikachu ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "407",
+            "name": "Latias ex (Holofoil)",
+            "image": "images/surging_sparks/407 - Latias ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "408",
+            "name": "Hydreigon ex (Holofoil)",
+            "image": "images/surging_sparks/408 - Hydreigon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "409",
+            "name": "Archaludon ex (Holofoil)",
+            "image": "images/surging_sparks/409 - Archaludon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "410",
+            "name": "Alolan Exeggutor ex (Holofoil)",
+            "image": "images/surging_sparks/410 - Alolan Exeggutor ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "411",
+            "name": "Clemont's Quick Wit (Holofoil)",
+            "image": "images/surging_sparks/411 - Clemont's Quick Wit - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "412",
+            "name": "Drayton (Holofoil)",
+            "image": "images/surging_sparks/412 - Drayton - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "413",
+            "name": "Jasmine's Gaze (Holofoil)",
+            "image": "images/surging_sparks/413 - Jasmine's Gaze - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "414",
+            "name": "Lisia's Appeal (Holofoil)",
+            "image": "images/surging_sparks/414 - Lisia's Appeal - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "415",
+            "name": "Pikachu ex (Holofoil)",
+            "image": "images/surging_sparks/415 - Pikachu ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "416",
+            "name": "Alolan Exeggutor ex (Holofoil)",
+            "image": "images/surging_sparks/416 - Alolan Exeggutor ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "417",
+            "name": "Counter Gain (Holofoil)",
+            "image": "images/surging_sparks/417 - Counter Gain - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "418",
+            "name": "Gravity Mountain (Holofoil)",
+            "image": "images/surging_sparks/418 - Gravity Mountain - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "419",
+            "name": "Night Stretcher (Holofoil)",
+            "image": "images/surging_sparks/419 - Night Stretcher - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "420",
+            "name": "Jet Energy (Holofoil)",
+            "image": "images/surging_sparks/420 - Jet Energy - (Holofoil).png",
+            "quantity": 0
+        }
+    ]
+}

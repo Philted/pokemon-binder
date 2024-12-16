@@ -1,0 +1,2249 @@
+{
+    "set_name": "Twilight Masquerade",
+    "set_code": "twilight_masquerade",
+    "settings": {
+        "width": 4,
+        "height": 3,
+        "color": "#9900ff"
+    },
+    "cards": [
+        {
+            "id": "001",
+            "name": "Tangela (Normal)",
+            "image": "images/twilight_masquerade/001 - Tangela - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "002",
+            "name": "Tangela (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/002 - Tangela - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "003",
+            "name": "Tangrowth (Normal)",
+            "image": "images/twilight_masquerade/003 - Tangrowth - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "004",
+            "name": "Tangrowth (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/004 - Tangrowth - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "005",
+            "name": "Pinsir (Normal)",
+            "image": "images/twilight_masquerade/005 - Pinsir - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "006",
+            "name": "Pinsir (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/006 - Pinsir - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "007",
+            "name": "Spinarak (Normal)",
+            "image": "images/twilight_masquerade/007 - Spinarak - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "008",
+            "name": "Spinarak (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/008 - Spinarak - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "009",
+            "name": "Ariados (Normal)",
+            "image": "images/twilight_masquerade/009 - Ariados - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "010",
+            "name": "Ariados (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/010 - Ariados - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "011",
+            "name": "Sunkern (Normal)",
+            "image": "images/twilight_masquerade/011 - Sunkern - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "012",
+            "name": "Sunkern (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/012 - Sunkern - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "013",
+            "name": "Sunflora (Normal)",
+            "image": "images/twilight_masquerade/013 - Sunflora - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "014",
+            "name": "Sunflora (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/014 - Sunflora - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "015",
+            "name": "Heracross (Normal)",
+            "image": "images/twilight_masquerade/015 - Heracross - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "016",
+            "name": "Heracross (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/016 - Heracross - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "017",
+            "name": "Volbeat (Normal)",
+            "image": "images/twilight_masquerade/017 - Volbeat - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "018",
+            "name": "Volbeat (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/018 - Volbeat - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "019",
+            "name": "Illumise (Normal)",
+            "image": "images/twilight_masquerade/019 - Illumise - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "020",
+            "name": "Illumise (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/020 - Illumise - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "021",
+            "name": "Leafeon (Normal)",
+            "image": "images/twilight_masquerade/021 - Leafeon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "022",
+            "name": "Leafeon (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/022 - Leafeon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "023",
+            "name": "Phantump (Normal)",
+            "image": "images/twilight_masquerade/023 - Phantump - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "024",
+            "name": "Phantump (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/024 - Phantump - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "025",
+            "name": "Trevenant (Normal)",
+            "image": "images/twilight_masquerade/025 - Trevenant - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "026",
+            "name": "Trevenant (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/026 - Trevenant - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "027",
+            "name": "Grookey (Normal)",
+            "image": "images/twilight_masquerade/027 - Grookey - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "028",
+            "name": "Grookey (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/028 - Grookey - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "029",
+            "name": "Thwackey (Normal)",
+            "image": "images/twilight_masquerade/029 - Thwackey - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "030",
+            "name": "Thwackey (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/030 - Thwackey - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "031",
+            "name": "Rillaboom (Normal)",
+            "image": "images/twilight_masquerade/031 - Rillaboom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "032",
+            "name": "Rillaboom (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/032 - Rillaboom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "033",
+            "name": "Applin (Normal)",
+            "image": "images/twilight_masquerade/033 - Applin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "034",
+            "name": "Applin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/034 - Applin - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "035",
+            "name": "Dipplin (Normal)",
+            "image": "images/twilight_masquerade/035 - Dipplin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "036",
+            "name": "Dipplin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/036 - Dipplin - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "037",
+            "name": "Iron Leaves (Holofoil)",
+            "image": "images/twilight_masquerade/037 - Iron Leaves - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "038",
+            "name": "Iron Leaves (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/038 - Iron Leaves - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "039",
+            "name": "Poltchageist (Normal)",
+            "image": "images/twilight_masquerade/039 - Poltchageist - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "040",
+            "name": "Poltchageist (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/040 - Poltchageist - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "041",
+            "name": "Poltchageist (Normal)",
+            "image": "images/twilight_masquerade/041 - Poltchageist - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "042",
+            "name": "Poltchageist (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/042 - Poltchageist - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "043",
+            "name": "Sinistcha (Holofoil)",
+            "image": "images/twilight_masquerade/043 - Sinistcha - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "044",
+            "name": "Sinistcha (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/044 - Sinistcha - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "045",
+            "name": "Sinistcha ex (Holofoil)",
+            "image": "images/twilight_masquerade/045 - Sinistcha ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "046",
+            "name": "Teal Mask Ogerpon (Holofoil)",
+            "image": "images/twilight_masquerade/046 - Teal Mask Ogerpon - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "047",
+            "name": "Teal Mask Ogerpon (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/047 - Teal Mask Ogerpon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "048",
+            "name": "Teal Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/048 - Teal Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "049",
+            "name": "Vulpix (Normal)",
+            "image": "images/twilight_masquerade/049 - Vulpix - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "050",
+            "name": "Vulpix (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/050 - Vulpix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "051",
+            "name": "Ninetales (Normal)",
+            "image": "images/twilight_masquerade/051 - Ninetales - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "052",
+            "name": "Ninetales (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/052 - Ninetales - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "053",
+            "name": "Slugma (Normal)",
+            "image": "images/twilight_masquerade/053 - Slugma - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "054",
+            "name": "Slugma (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/054 - Slugma - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "055",
+            "name": "Magcargo ex (Holofoil)",
+            "image": "images/twilight_masquerade/055 - Magcargo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "056",
+            "name": "Torkoal (Normal)",
+            "image": "images/twilight_masquerade/056 - Torkoal - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "057",
+            "name": "Torkoal (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/057 - Torkoal - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "058",
+            "name": "Chimchar (Normal)",
+            "image": "images/twilight_masquerade/058 - Chimchar - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "059",
+            "name": "Chimchar (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/059 - Chimchar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "060",
+            "name": "Monferno (Normal)",
+            "image": "images/twilight_masquerade/060 - Monferno - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "061",
+            "name": "Monferno (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/061 - Monferno - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "062",
+            "name": "Infernape (Holofoil)",
+            "image": "images/twilight_masquerade/062 - Infernape - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "063",
+            "name": "Infernape (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/063 - Infernape - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "064",
+            "name": "Darumaka (Normal)",
+            "image": "images/twilight_masquerade/064 - Darumaka - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "065",
+            "name": "Darumaka (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/065 - Darumaka - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "066",
+            "name": "Darmanitan (Normal)",
+            "image": "images/twilight_masquerade/066 - Darmanitan - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "067",
+            "name": "Darmanitan (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/067 - Darmanitan - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "068",
+            "name": "Litwick (Normal)",
+            "image": "images/twilight_masquerade/068 - Litwick - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "069",
+            "name": "Litwick (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/069 - Litwick - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "070",
+            "name": "Lampent (Normal)",
+            "image": "images/twilight_masquerade/070 - Lampent - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "071",
+            "name": "Lampent (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/071 - Lampent - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "072",
+            "name": "Chandelure (Holofoil)",
+            "image": "images/twilight_masquerade/072 - Chandelure - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "073",
+            "name": "Chandelure (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/073 - Chandelure - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "074",
+            "name": "Chi-Yu (Normal)",
+            "image": "images/twilight_masquerade/074 - Chi-Yu - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "075",
+            "name": "Chi-Yu (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/075 - Chi-Yu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "076",
+            "name": "Hearthflame Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/076 - Hearthflame Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "077",
+            "name": "Poliwag (Normal)",
+            "image": "images/twilight_masquerade/077 - Poliwag - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "078",
+            "name": "Poliwag (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/078 - Poliwag - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "079",
+            "name": "Poliwhirl (Normal)",
+            "image": "images/twilight_masquerade/079 - Poliwhirl - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "080",
+            "name": "Poliwhirl (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/080 - Poliwhirl - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "081",
+            "name": "Poliwrath (Normal)",
+            "image": "images/twilight_masquerade/081 - Poliwrath - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "082",
+            "name": "Poliwrath (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/082 - Poliwrath - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "083",
+            "name": "Goldeen (Normal)",
+            "image": "images/twilight_masquerade/083 - Goldeen - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "084",
+            "name": "Goldeen (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/084 - Goldeen - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "085",
+            "name": "Seaking (Normal)",
+            "image": "images/twilight_masquerade/085 - Seaking - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "086",
+            "name": "Seaking (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/086 - Seaking - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "087",
+            "name": "Jynx (Normal)",
+            "image": "images/twilight_masquerade/087 - Jynx - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "088",
+            "name": "Jynx (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/088 - Jynx - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "089",
+            "name": "Corphish (Normal)",
+            "image": "images/twilight_masquerade/089 - Corphish - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "090",
+            "name": "Corphish (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/090 - Corphish - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "091",
+            "name": "Crawdaunt (Normal)",
+            "image": "images/twilight_masquerade/091 - Crawdaunt - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "092",
+            "name": "Crawdaunt (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/092 - Crawdaunt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "093",
+            "name": "Feebas (Normal)",
+            "image": "images/twilight_masquerade/093 - Feebas - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "094",
+            "name": "Feebas (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/094 - Feebas - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "095",
+            "name": "Milotic (Normal)",
+            "image": "images/twilight_masquerade/095 - Milotic - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "096",
+            "name": "Milotic (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/096 - Milotic - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "097",
+            "name": "Snorunt (Normal)",
+            "image": "images/twilight_masquerade/097 - Snorunt - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "098",
+            "name": "Snorunt (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/098 - Snorunt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "099",
+            "name": "Glalie (Normal)",
+            "image": "images/twilight_masquerade/099 - Glalie - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "100",
+            "name": "Glalie (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/100 - Glalie - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "101",
+            "name": "Froslass (Holofoil)",
+            "image": "images/twilight_masquerade/101 - Froslass - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "102",
+            "name": "Froslass (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/102 - Froslass - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "103",
+            "name": "Glaceon (Normal)",
+            "image": "images/twilight_masquerade/103 - Glaceon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "104",
+            "name": "Glaceon (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/104 - Glaceon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "105",
+            "name": "Phione (Normal)",
+            "image": "images/twilight_masquerade/105 - Phione - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "106",
+            "name": "Phione (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/106 - Phione - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "107",
+            "name": "Froakie (Normal)",
+            "image": "images/twilight_masquerade/107 - Froakie - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "108",
+            "name": "Froakie (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/108 - Froakie - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "109",
+            "name": "Frogadier (Normal)",
+            "image": "images/twilight_masquerade/109 - Frogadier - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "110",
+            "name": "Frogadier (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/110 - Frogadier - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "111",
+            "name": "Cramorant (Normal)",
+            "image": "images/twilight_masquerade/111 - Cramorant - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "112",
+            "name": "Cramorant (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/112 - Cramorant - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "113",
+            "name": "Finizen (Normal)",
+            "image": "images/twilight_masquerade/113 - Finizen - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "114",
+            "name": "Finizen (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/114 - Finizen - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "115",
+            "name": "Palafin (Normal)",
+            "image": "images/twilight_masquerade/115 - Palafin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "116",
+            "name": "Palafin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/116 - Palafin - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "117",
+            "name": "Palafin ex (Holofoil)",
+            "image": "images/twilight_masquerade/117 - Palafin ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "118",
+            "name": "Iron Bundle (Normal)",
+            "image": "images/twilight_masquerade/118 - Iron Bundle - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "119",
+            "name": "Iron Bundle (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/119 - Iron Bundle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "120",
+            "name": "Walking Wake (Holofoil)",
+            "image": "images/twilight_masquerade/120 - Walking Wake - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "121",
+            "name": "Walking Wake (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/121 - Walking Wake - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "122",
+            "name": "Wellspring Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/122 - Wellspring Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "123",
+            "name": "Zapdos (Holofoil)",
+            "image": "images/twilight_masquerade/123 - Zapdos - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "124",
+            "name": "Zapdos (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/124 - Zapdos - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "125",
+            "name": "Shinx (Normal)",
+            "image": "images/twilight_masquerade/125 - Shinx - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "126",
+            "name": "Shinx (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/126 - Shinx - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "127",
+            "name": "Luxio (Normal)",
+            "image": "images/twilight_masquerade/127 - Luxio - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "128",
+            "name": "Luxio (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/128 - Luxio - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "129",
+            "name": "Luxray ex (Holofoil)",
+            "image": "images/twilight_masquerade/129 - Luxray ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "130",
+            "name": "Emolga (Normal)",
+            "image": "images/twilight_masquerade/130 - Emolga - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "131",
+            "name": "Emolga (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/131 - Emolga - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "132",
+            "name": "Helioptile (Normal)",
+            "image": "images/twilight_masquerade/132 - Helioptile - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "133",
+            "name": "Helioptile (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/133 - Helioptile - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "134",
+            "name": "Heliolisk (Normal)",
+            "image": "images/twilight_masquerade/134 - Heliolisk - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "135",
+            "name": "Heliolisk (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/135 - Heliolisk - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "136",
+            "name": "Morpeko (Normal)",
+            "image": "images/twilight_masquerade/136 - Morpeko - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "137",
+            "name": "Morpeko (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/137 - Morpeko - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "138",
+            "name": "Tadbulb (Normal)",
+            "image": "images/twilight_masquerade/138 - Tadbulb - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "139",
+            "name": "Tadbulb (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/139 - Tadbulb - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "140",
+            "name": "Bellibolt (Normal)",
+            "image": "images/twilight_masquerade/140 - Bellibolt - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "141",
+            "name": "Bellibolt (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/141 - Bellibolt - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "142",
+            "name": "Wattrel (Normal)",
+            "image": "images/twilight_masquerade/142 - Wattrel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "143",
+            "name": "Wattrel (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/143 - Wattrel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "144",
+            "name": "Kilowattrel (Normal)",
+            "image": "images/twilight_masquerade/144 - Kilowattrel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "145",
+            "name": "Kilowattrel (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/145 - Kilowattrel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "146",
+            "name": "Iron Thorns ex (Holofoil)",
+            "image": "images/twilight_masquerade/146 - Iron Thorns ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "147",
+            "name": "Clefairy (Normal)",
+            "image": "images/twilight_masquerade/147 - Clefairy - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "148",
+            "name": "Clefairy (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/148 - Clefairy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "149",
+            "name": "Clefable (Normal)",
+            "image": "images/twilight_masquerade/149 - Clefable - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "150",
+            "name": "Clefable (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/150 - Clefable - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "151",
+            "name": "Abra (Normal)",
+            "image": "images/twilight_masquerade/151 - Abra - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "152",
+            "name": "Abra (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/152 - Abra - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "153",
+            "name": "Kadabra (Normal)",
+            "image": "images/twilight_masquerade/153 - Kadabra - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "154",
+            "name": "Kadabra (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/154 - Kadabra - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "155",
+            "name": "Alakazam (Holofoil)",
+            "image": "images/twilight_masquerade/155 - Alakazam - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "156",
+            "name": "Alakazam (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/156 - Alakazam - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "157",
+            "name": "Girafarig (Normal)",
+            "image": "images/twilight_masquerade/157 - Girafarig - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "158",
+            "name": "Girafarig (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/158 - Girafarig - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "159",
+            "name": "Farigiraf (Normal)",
+            "image": "images/twilight_masquerade/159 - Farigiraf - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "160",
+            "name": "Farigiraf (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/160 - Farigiraf - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "161",
+            "name": "Chimecho (Normal)",
+            "image": "images/twilight_masquerade/161 - Chimecho - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "162",
+            "name": "Chimecho (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/162 - Chimecho - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "163",
+            "name": "Flab\u00e9b\u00e9 (Normal)",
+            "image": "images/twilight_masquerade/163 - Flab\u00e9b\u00e9 - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "164",
+            "name": "Flab\u00e9b\u00e9 (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/164 - Flab\u00e9b\u00e9 - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "165",
+            "name": "Floette (Normal)",
+            "image": "images/twilight_masquerade/165 - Floette - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "166",
+            "name": "Floette (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/166 - Floette - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "167",
+            "name": "Florges (Normal)",
+            "image": "images/twilight_masquerade/167 - Florges - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "168",
+            "name": "Florges (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/168 - Florges - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "169",
+            "name": "Swirlix (Normal)",
+            "image": "images/twilight_masquerade/169 - Swirlix - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "170",
+            "name": "Swirlix (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/170 - Swirlix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "171",
+            "name": "Slurpuff (Normal)",
+            "image": "images/twilight_masquerade/171 - Slurpuff - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "172",
+            "name": "Slurpuff (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/172 - Slurpuff - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "173",
+            "name": "Sandygast (Normal)",
+            "image": "images/twilight_masquerade/173 - Sandygast - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "174",
+            "name": "Sandygast (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/174 - Sandygast - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "175",
+            "name": "Palossand (Normal)",
+            "image": "images/twilight_masquerade/175 - Palossand - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "176",
+            "name": "Palossand (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/176 - Palossand - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "177",
+            "name": "Enamorus (Holofoil)",
+            "image": "images/twilight_masquerade/177 - Enamorus - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "178",
+            "name": "Enamorus (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/178 - Enamorus - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "179",
+            "name": "Scream Tail ex (Holofoil)",
+            "image": "images/twilight_masquerade/179 - Scream Tail ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "180",
+            "name": "Munkidori (Holofoil)",
+            "image": "images/twilight_masquerade/180 - Munkidori - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "181",
+            "name": "Munkidori (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/181 - Munkidori - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "182",
+            "name": "Fezandipiti (Holofoil)",
+            "image": "images/twilight_masquerade/182 - Fezandipiti - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "183",
+            "name": "Fezandipiti (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/183 - Fezandipiti - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "184",
+            "name": "Sandshrew (Normal)",
+            "image": "images/twilight_masquerade/184 - Sandshrew - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "185",
+            "name": "Sandshrew (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/185 - Sandshrew - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "186",
+            "name": "Sandslash (Normal)",
+            "image": "images/twilight_masquerade/186 - Sandslash - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "187",
+            "name": "Sandslash (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/187 - Sandslash - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "188",
+            "name": "Hisuian Growlithe (Normal)",
+            "image": "images/twilight_masquerade/188 - Hisuian Growlithe - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "189",
+            "name": "Hisuian Growlithe (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/189 - Hisuian Growlithe - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "190",
+            "name": "Hisuian Arcanine (Holofoil)",
+            "image": "images/twilight_masquerade/190 - Hisuian Arcanine - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "191",
+            "name": "Hisuian Arcanine (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/191 - Hisuian Arcanine - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "192",
+            "name": "Nosepass (Normal)",
+            "image": "images/twilight_masquerade/192 - Nosepass - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "193",
+            "name": "Nosepass (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/193 - Nosepass - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "194",
+            "name": "Probopass (Normal)",
+            "image": "images/twilight_masquerade/194 - Probopass - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "195",
+            "name": "Probopass (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/195 - Probopass - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "196",
+            "name": "Timburr (Normal)",
+            "image": "images/twilight_masquerade/196 - Timburr - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "197",
+            "name": "Timburr (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/197 - Timburr - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "198",
+            "name": "Gurdurr (Normal)",
+            "image": "images/twilight_masquerade/198 - Gurdurr - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "199",
+            "name": "Gurdurr (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/199 - Gurdurr - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "200",
+            "name": "Conkeldurr (Normal)",
+            "image": "images/twilight_masquerade/200 - Conkeldurr - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "201",
+            "name": "Conkeldurr (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/201 - Conkeldurr - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "202",
+            "name": "Greninja ex (Holofoil)",
+            "image": "images/twilight_masquerade/202 - Greninja ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "203",
+            "name": "Hawlucha (Normal)",
+            "image": "images/twilight_masquerade/203 - Hawlucha - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "204",
+            "name": "Hawlucha (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/204 - Hawlucha - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "205",
+            "name": "Glimmet (Normal)",
+            "image": "images/twilight_masquerade/205 - Glimmet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "206",
+            "name": "Glimmet (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/206 - Glimmet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "207",
+            "name": "Glimmora (Normal)",
+            "image": "images/twilight_masquerade/207 - Glimmora - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "208",
+            "name": "Glimmora (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/208 - Glimmora - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "209",
+            "name": "Ting-Lu (Holofoil)",
+            "image": "images/twilight_masquerade/209 - Ting-Lu - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "210",
+            "name": "Ting-Lu (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/210 - Ting-Lu - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "211",
+            "name": "Okidogi (Holofoil)",
+            "image": "images/twilight_masquerade/211 - Okidogi - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "212",
+            "name": "Okidogi (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/212 - Okidogi - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "213",
+            "name": "Cornerstone Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/213 - Cornerstone Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "214",
+            "name": "Poochyena (Normal)",
+            "image": "images/twilight_masquerade/214 - Poochyena - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "215",
+            "name": "Poochyena (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/215 - Poochyena - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "216",
+            "name": "Mightyena (Normal)",
+            "image": "images/twilight_masquerade/216 - Mightyena - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "217",
+            "name": "Mightyena (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/217 - Mightyena - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "218",
+            "name": "Venipede (Normal)",
+            "image": "images/twilight_masquerade/218 - Venipede - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "219",
+            "name": "Venipede (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/219 - Venipede - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "220",
+            "name": "Whirlipede (Normal)",
+            "image": "images/twilight_masquerade/220 - Whirlipede - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "221",
+            "name": "Whirlipede (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/221 - Whirlipede - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "222",
+            "name": "Scolipede (Normal)",
+            "image": "images/twilight_masquerade/222 - Scolipede - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "223",
+            "name": "Scolipede (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/223 - Scolipede - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "224",
+            "name": "Brute Bonnet (Normal)",
+            "image": "images/twilight_masquerade/224 - Brute Bonnet - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "225",
+            "name": "Brute Bonnet (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/225 - Brute Bonnet - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "226",
+            "name": "Skarmory (Normal)",
+            "image": "images/twilight_masquerade/226 - Skarmory - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "227",
+            "name": "Skarmory (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/227 - Skarmory - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "228",
+            "name": "Aron (Normal)",
+            "image": "images/twilight_masquerade/228 - Aron - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "229",
+            "name": "Aron (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/229 - Aron - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "230",
+            "name": "Lairon (Normal)",
+            "image": "images/twilight_masquerade/230 - Lairon - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "231",
+            "name": "Lairon (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/231 - Lairon - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "232",
+            "name": "Aggron (Normal)",
+            "image": "images/twilight_masquerade/232 - Aggron - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "233",
+            "name": "Aggron (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/233 - Aggron - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "234",
+            "name": "Heatran (Holofoil)",
+            "image": "images/twilight_masquerade/234 - Heatran - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "235",
+            "name": "Heatran (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/235 - Heatran - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "236",
+            "name": "Varoom (Normal)",
+            "image": "images/twilight_masquerade/236 - Varoom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "237",
+            "name": "Varoom (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/237 - Varoom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "238",
+            "name": "Revavroom (Normal)",
+            "image": "images/twilight_masquerade/238 - Revavroom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "239",
+            "name": "Revavroom (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/239 - Revavroom - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "240",
+            "name": "Applin (Normal)",
+            "image": "images/twilight_masquerade/240 - Applin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "241",
+            "name": "Applin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/241 - Applin - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "242",
+            "name": "Dipplin (Normal)",
+            "image": "images/twilight_masquerade/242 - Dipplin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "243",
+            "name": "Dipplin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/243 - Dipplin - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "244",
+            "name": "Dreepy (Normal)",
+            "image": "images/twilight_masquerade/244 - Dreepy - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "245",
+            "name": "Dreepy (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/245 - Dreepy - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "246",
+            "name": "Drakloak (Normal)",
+            "image": "images/twilight_masquerade/246 - Drakloak - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "247",
+            "name": "Drakloak (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/247 - Drakloak - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "248",
+            "name": "Dragapult ex (Holofoil)",
+            "image": "images/twilight_masquerade/248 - Dragapult ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "249",
+            "name": "Tatsugiri (Normal)",
+            "image": "images/twilight_masquerade/249 - Tatsugiri - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "250",
+            "name": "Tatsugiri (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/250 - Tatsugiri - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "251",
+            "name": "Farfetch'd (Normal)",
+            "image": "images/twilight_masquerade/251 - Farfetch'd - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "252",
+            "name": "Farfetch'd (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/252 - Farfetch'd - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "253",
+            "name": "Chansey (Normal)",
+            "image": "images/twilight_masquerade/253 - Chansey - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "254",
+            "name": "Chansey (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/254 - Chansey - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "255",
+            "name": "Blissey ex (Holofoil)",
+            "image": "images/twilight_masquerade/255 - Blissey ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "256",
+            "name": "Eevee (Normal)",
+            "image": "images/twilight_masquerade/256 - Eevee - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "257",
+            "name": "Eevee (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/257 - Eevee - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "258",
+            "name": "Snorlax (Normal)",
+            "image": "images/twilight_masquerade/258 - Snorlax - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "259",
+            "name": "Snorlax (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/259 - Snorlax - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "260",
+            "name": "Aipom (Normal)",
+            "image": "images/twilight_masquerade/260 - Aipom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "261",
+            "name": "Aipom (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/261 - Aipom - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "262",
+            "name": "Ambipom (Normal)",
+            "image": "images/twilight_masquerade/262 - Ambipom - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "263",
+            "name": "Ambipom (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/263 - Ambipom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "264",
+            "name": "Ducklett (Normal)",
+            "image": "images/twilight_masquerade/264 - Ducklett - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "265",
+            "name": "Ducklett (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/265 - Ducklett - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "266",
+            "name": "Swanna (Normal)",
+            "image": "images/twilight_masquerade/266 - Swanna - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "267",
+            "name": "Swanna (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/267 - Swanna - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "268",
+            "name": "Bloodmoon Ursaluna ex (Holofoil)",
+            "image": "images/twilight_masquerade/268 - Bloodmoon Ursaluna ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "269",
+            "name": "Accompanying Flute (Normal)",
+            "image": "images/twilight_masquerade/269 - Accompanying Flute - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "270",
+            "name": "Accompanying Flute (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/270 - Accompanying Flute - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "271",
+            "name": "Bug Catching Set (Normal)",
+            "image": "images/twilight_masquerade/271 - Bug Catching Set - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "272",
+            "name": "Bug Catching Set (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/272 - Bug Catching Set - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "273",
+            "name": "Caretaker (Normal)",
+            "image": "images/twilight_masquerade/273 - Caretaker - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "274",
+            "name": "Caretaker (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/274 - Caretaker - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "275",
+            "name": "Carmine (Normal)",
+            "image": "images/twilight_masquerade/275 - Carmine - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "276",
+            "name": "Carmine (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/276 - Carmine - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "277",
+            "name": "Community Center (Normal)",
+            "image": "images/twilight_masquerade/277 - Community Center - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "278",
+            "name": "Community Center (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/278 - Community Center - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "279",
+            "name": "Cook (Normal)",
+            "image": "images/twilight_masquerade/279 - Cook - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "280",
+            "name": "Cook (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/280 - Cook - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "281",
+            "name": "Enhanced Hammer (Normal)",
+            "image": "images/twilight_masquerade/281 - Enhanced Hammer - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "282",
+            "name": "Enhanced Hammer (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/282 - Enhanced Hammer - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "283",
+            "name": "Festival Grounds (Normal)",
+            "image": "images/twilight_masquerade/283 - Festival Grounds - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "284",
+            "name": "Festival Grounds (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/284 - Festival Grounds - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "285",
+            "name": "Handheld Fan (Normal)",
+            "image": "images/twilight_masquerade/285 - Handheld Fan - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "286",
+            "name": "Handheld Fan (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/286 - Handheld Fan - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "287",
+            "name": "Hassel (Normal)",
+            "image": "images/twilight_masquerade/287 - Hassel - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "288",
+            "name": "Hassel (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/288 - Hassel - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "289",
+            "name": "Hyper Aroma (Holofoil)",
+            "image": "images/twilight_masquerade/289 - Hyper Aroma - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "290",
+            "name": "Jamming Tower (Normal)",
+            "image": "images/twilight_masquerade/290 - Jamming Tower - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "291",
+            "name": "Jamming Tower (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/291 - Jamming Tower - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "292",
+            "name": "Kieran (Normal)",
+            "image": "images/twilight_masquerade/292 - Kieran - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "293",
+            "name": "Kieran (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/293 - Kieran - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "294",
+            "name": "Lana's Aid (Normal)",
+            "image": "images/twilight_masquerade/294 - Lana's Aid - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "295",
+            "name": "Lana's Aid (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/295 - Lana's Aid - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "296",
+            "name": "Love Ball (Normal)",
+            "image": "images/twilight_masquerade/296 - Love Ball - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "297",
+            "name": "Love Ball (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/297 - Love Ball - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "298",
+            "name": "Lucian (Normal)",
+            "image": "images/twilight_masquerade/298 - Lucian - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "299",
+            "name": "Lucian (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/299 - Lucian - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "300",
+            "name": "Lucky Helmet (Normal)",
+            "image": "images/twilight_masquerade/300 - Lucky Helmet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "301",
+            "name": "Lucky Helmet (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/301 - Lucky Helmet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "302",
+            "name": "Ogre's Mask (Normal)",
+            "image": "images/twilight_masquerade/302 - Ogre's Mask - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "303",
+            "name": "Ogre's Mask (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/303 - Ogre's Mask - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "304",
+            "name": "Perrin (Normal)",
+            "image": "images/twilight_masquerade/304 - Perrin - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "305",
+            "name": "Perrin (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/305 - Perrin - (Reverse Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "306",
+            "name": "Raifort (Normal)",
+            "image": "images/twilight_masquerade/306 - Raifort - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "307",
+            "name": "Raifort (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/307 - Raifort - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "308",
+            "name": "Scoop Up Cyclone (Holofoil)",
+            "image": "images/twilight_masquerade/308 - Scoop Up Cyclone - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "309",
+            "name": "Secret Box (Holofoil)",
+            "image": "images/twilight_masquerade/309 - Secret Box - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "310",
+            "name": "Survival Brace (Holofoil)",
+            "image": "images/twilight_masquerade/310 - Survival Brace - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "311",
+            "name": "Unfair Stamp (Holofoil)",
+            "image": "images/twilight_masquerade/311 - Unfair Stamp - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "312",
+            "name": "Boomerang Energy (Normal)",
+            "image": "images/twilight_masquerade/312 - Boomerang Energy - (Normal).png",
+            "quantity": 1
+        },
+        {
+            "id": "313",
+            "name": "Boomerang Energy (Reverse Holofoil)",
+            "image": "images/twilight_masquerade/313 - Boomerang Energy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "314",
+            "name": "Legacy Energy (Holofoil)",
+            "image": "images/twilight_masquerade/314 - Legacy Energy - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "315",
+            "name": "Pinsir (Holofoil)",
+            "image": "images/twilight_masquerade/315 - Pinsir - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "316",
+            "name": "Sunflora (Holofoil)",
+            "image": "images/twilight_masquerade/316 - Sunflora - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "317",
+            "name": "Dipplin (Holofoil)",
+            "image": "images/twilight_masquerade/317 - Dipplin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "318",
+            "name": "Poltchageist (Holofoil)",
+            "image": "images/twilight_masquerade/318 - Poltchageist - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "319",
+            "name": "Torkoal (Holofoil)",
+            "image": "images/twilight_masquerade/319 - Torkoal - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "320",
+            "name": "Infernape (Holofoil)",
+            "image": "images/twilight_masquerade/320 - Infernape - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "321",
+            "name": "Froslass (Holofoil)",
+            "image": "images/twilight_masquerade/321 - Froslass - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "322",
+            "name": "Phione (Holofoil)",
+            "image": "images/twilight_masquerade/322 - Phione - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "323",
+            "name": "Cramorant (Holofoil)",
+            "image": "images/twilight_masquerade/323 - Cramorant - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "324",
+            "name": "Heliolisk (Holofoil)",
+            "image": "images/twilight_masquerade/324 - Heliolisk - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "325",
+            "name": "Wattrel (Holofoil)",
+            "image": "images/twilight_masquerade/325 - Wattrel - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "326",
+            "name": "Chimecho (Holofoil)",
+            "image": "images/twilight_masquerade/326 - Chimecho - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "327",
+            "name": "Enamorus (Holofoil)",
+            "image": "images/twilight_masquerade/327 - Enamorus - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "328",
+            "name": "Hisuian Growlithe (Holofoil)",
+            "image": "images/twilight_masquerade/328 - Hisuian Growlithe - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "329",
+            "name": "Probopass (Holofoil)",
+            "image": "images/twilight_masquerade/329 - Probopass - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "330",
+            "name": "Timburr (Holofoil)",
+            "image": "images/twilight_masquerade/330 - Timburr - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "331",
+            "name": "Lairon (Holofoil)",
+            "image": "images/twilight_masquerade/331 - Lairon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "332",
+            "name": "Applin (Holofoil)",
+            "image": "images/twilight_masquerade/332 - Applin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "333",
+            "name": "Tatsugiri (Holofoil)",
+            "image": "images/twilight_masquerade/333 - Tatsugiri - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "334",
+            "name": "Chansey (Holofoil)",
+            "image": "images/twilight_masquerade/334 - Chansey - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "335",
+            "name": "Eevee (Holofoil)",
+            "image": "images/twilight_masquerade/335 - Eevee - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "336",
+            "name": "Sinistcha ex (Holofoil)",
+            "image": "images/twilight_masquerade/336 - Sinistcha ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "337",
+            "name": "Teal Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/337 - Teal Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "338",
+            "name": "Magcargo ex (Holofoil)",
+            "image": "images/twilight_masquerade/338 - Magcargo ex - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "339",
+            "name": "Hearthflame Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/339 - Hearthflame Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "340",
+            "name": "Palafin ex (Holofoil)",
+            "image": "images/twilight_masquerade/340 - Palafin ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "341",
+            "name": "Wellspring Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/341 - Wellspring Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "342",
+            "name": "Luxray ex (Holofoil)",
+            "image": "images/twilight_masquerade/342 - Luxray ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "343",
+            "name": "Iron Thorns ex (Holofoil)",
+            "image": "images/twilight_masquerade/343 - Iron Thorns ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "344",
+            "name": "Scream Tail ex (Holofoil)",
+            "image": "images/twilight_masquerade/344 - Scream Tail ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "345",
+            "name": "Greninja ex (Holofoil)",
+            "image": "images/twilight_masquerade/345 - Greninja ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "346",
+            "name": "Cornerstone Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/346 - Cornerstone Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "347",
+            "name": "Dragapult ex (Holofoil)",
+            "image": "images/twilight_masquerade/347 - Dragapult ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "348",
+            "name": "Blissey ex (Holofoil)",
+            "image": "images/twilight_masquerade/348 - Blissey ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "349",
+            "name": "Bloodmoon Ursaluna ex (Holofoil)",
+            "image": "images/twilight_masquerade/349 - Bloodmoon Ursaluna ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "350",
+            "name": "Caretaker (Holofoil)",
+            "image": "images/twilight_masquerade/350 - Caretaker - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "351",
+            "name": "Carmine (Holofoil)",
+            "image": "images/twilight_masquerade/351 - Carmine - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "352",
+            "name": "Hassel (Holofoil)",
+            "image": "images/twilight_masquerade/352 - Hassel - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "353",
+            "name": "Kieran (Holofoil)",
+            "image": "images/twilight_masquerade/353 - Kieran - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "354",
+            "name": "Lana's Aid (Holofoil)",
+            "image": "images/twilight_masquerade/354 - Lana's Aid - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "355",
+            "name": "Lucian (Holofoil)",
+            "image": "images/twilight_masquerade/355 - Lucian - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "356",
+            "name": "Perrin (Holofoil)",
+            "image": "images/twilight_masquerade/356 - Perrin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "357",
+            "name": "Sinistcha ex (Holofoil)",
+            "image": "images/twilight_masquerade/357 - Sinistcha ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "358",
+            "name": "Teal Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/358 - Teal Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "359",
+            "name": "Hearthflame Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/359 - Hearthflame Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "360",
+            "name": "Wellspring Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/360 - Wellspring Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "361",
+            "name": "Greninja ex (Holofoil)",
+            "image": "images/twilight_masquerade/361 - Greninja ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "362",
+            "name": "Cornerstone Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/362 - Cornerstone Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "363",
+            "name": "Bloodmoon Ursaluna ex (Holofoil)",
+            "image": "images/twilight_masquerade/363 - Bloodmoon Ursaluna ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "364",
+            "name": "Carmine (Holofoil)",
+            "image": "images/twilight_masquerade/364 - Carmine - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "365",
+            "name": "Kieran (Holofoil)",
+            "image": "images/twilight_masquerade/365 - Kieran - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "366",
+            "name": "Lana's Aid (Holofoil)",
+            "image": "images/twilight_masquerade/366 - Lana's Aid - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "367",
+            "name": "Perrin (Holofoil)",
+            "image": "images/twilight_masquerade/367 - Perrin - (Holofoil).png",
+            "quantity": 1
+        },
+        {
+            "id": "368",
+            "name": "Teal Mask Ogerpon ex (Holofoil)",
+            "image": "images/twilight_masquerade/368 - Teal Mask Ogerpon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "369",
+            "name": "Bloodmoon Ursaluna ex (Holofoil)",
+            "image": "images/twilight_masquerade/369 - Bloodmoon Ursaluna ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "370",
+            "name": "Buddy-Buddy Poffin (Holofoil)",
+            "image": "images/twilight_masquerade/370 - Buddy-Buddy Poffin - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "371",
+            "name": "Enhanced Hammer (Holofoil)",
+            "image": "images/twilight_masquerade/371 - Enhanced Hammer - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "372",
+            "name": "Rescue Board (Holofoil)",
+            "image": "images/twilight_masquerade/372 - Rescue Board - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "373",
+            "name": "Luminous Energy (Holofoil)",
+            "image": "images/twilight_masquerade/373 - Luminous Energy - (Holofoil).png",
+            "quantity": 0
+        }
+    ]
+}

@@ -1,0 +1,2531 @@
+{
+    "set_name": "Paradox Rift",
+    "set_code": "paradox_rift",
+    "settings": {
+        "width": 4,
+        "height": 3,
+        "color": "#9900ff"
+    },
+    "cards": [
+        {
+            "id": "001",
+            "name": "Surskit (Normal)",
+            "image": "images/paradox_rift/001 - Surskit - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "002",
+            "name": "Surskit (Reverse Holofoil)",
+            "image": "images/paradox_rift/002 - Surskit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "003",
+            "name": "Masquerain (Normal)",
+            "image": "images/paradox_rift/003 - Masquerain - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "004",
+            "name": "Masquerain (Reverse Holofoil)",
+            "image": "images/paradox_rift/004 - Masquerain - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "005",
+            "name": "Froslass ex (Holofoil)",
+            "image": "images/paradox_rift/005 - Froslass ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "006",
+            "name": "Pansage (Normal)",
+            "image": "images/paradox_rift/006 - Pansage - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "007",
+            "name": "Pansage (Reverse Holofoil)",
+            "image": "images/paradox_rift/007 - Pansage - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "008",
+            "name": "Simisage (Normal)",
+            "image": "images/paradox_rift/008 - Simisage - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "009",
+            "name": "Simisage (Reverse Holofoil)",
+            "image": "images/paradox_rift/009 - Simisage - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "010",
+            "name": "Dwebble (Normal)",
+            "image": "images/paradox_rift/010 - Dwebble - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "011",
+            "name": "Dwebble (Reverse Holofoil)",
+            "image": "images/paradox_rift/011 - Dwebble - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "012",
+            "name": "Crustle (Normal)",
+            "image": "images/paradox_rift/012 - Crustle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "013",
+            "name": "Crustle (Reverse Holofoil)",
+            "image": "images/paradox_rift/013 - Crustle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "014",
+            "name": "Bounsweet (Normal)",
+            "image": "images/paradox_rift/014 - Bounsweet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "015",
+            "name": "Bounsweet (Reverse Holofoil)",
+            "image": "images/paradox_rift/015 - Bounsweet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "016",
+            "name": "Steenee (Normal)",
+            "image": "images/paradox_rift/016 - Steenee - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "017",
+            "name": "Steenee (Reverse Holofoil)",
+            "image": "images/paradox_rift/017 - Steenee - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "018",
+            "name": "Blipbug (Normal)",
+            "image": "images/paradox_rift/018 - Blipbug - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "019",
+            "name": "Blipbug (Reverse Holofoil)",
+            "image": "images/paradox_rift/019 - Blipbug - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "020",
+            "name": "Dottler (Normal)",
+            "image": "images/paradox_rift/020 - Dottler - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "021",
+            "name": "Dottler (Reverse Holofoil)",
+            "image": "images/paradox_rift/021 - Dottler - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "022",
+            "name": "Orbeetle (Normal)",
+            "image": "images/paradox_rift/022 - Orbeetle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "023",
+            "name": "Orbeetle (Reverse Holofoil)",
+            "image": "images/paradox_rift/023 - Orbeetle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "024",
+            "name": "Nymble (Normal)",
+            "image": "images/paradox_rift/024 - Nymble - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "025",
+            "name": "Nymble (Reverse Holofoil)",
+            "image": "images/paradox_rift/025 - Nymble - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "026",
+            "name": "Nymble (Normal)",
+            "image": "images/paradox_rift/026 - Nymble - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "027",
+            "name": "Nymble (Reverse Holofoil)",
+            "image": "images/paradox_rift/027 - Nymble - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "028",
+            "name": "Toedscool (Normal)",
+            "image": "images/paradox_rift/028 - Toedscool - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "029",
+            "name": "Toedscool (Reverse Holofoil)",
+            "image": "images/paradox_rift/029 - Toedscool - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "030",
+            "name": "Toedscool (Normal)",
+            "image": "images/paradox_rift/030 - Toedscool - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "031",
+            "name": "Toedscool (Reverse Holofoil)",
+            "image": "images/paradox_rift/031 - Toedscool - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "032",
+            "name": "Toedscruel (Normal)",
+            "image": "images/paradox_rift/032 - Toedscruel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "033",
+            "name": "Toedscruel (Reverse Holofoil)",
+            "image": "images/paradox_rift/033 - Toedscruel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "034",
+            "name": "Wo-Chien (Holofoil)",
+            "image": "images/paradox_rift/034 - Wo-Chien - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "035",
+            "name": "Wo-Chien (Reverse Holofoil)",
+            "image": "images/paradox_rift/035 - Wo-Chien - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "036",
+            "name": "Magby (Normal)",
+            "image": "images/paradox_rift/036 - Magby - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "037",
+            "name": "Magby (Reverse Holofoil)",
+            "image": "images/paradox_rift/037 - Magby - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "038",
+            "name": "Pansear (Normal)",
+            "image": "images/paradox_rift/038 - Pansear - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "039",
+            "name": "Pansear (Reverse Holofoil)",
+            "image": "images/paradox_rift/039 - Pansear - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "040",
+            "name": "Simisear (Normal)",
+            "image": "images/paradox_rift/040 - Simisear - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "041",
+            "name": "Simisear (Reverse Holofoil)",
+            "image": "images/paradox_rift/041 - Simisear - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "042",
+            "name": "Volcanion (Holofoil)",
+            "image": "images/paradox_rift/042 - Volcanion - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "043",
+            "name": "Volcanion (Reverse Holofoil)",
+            "image": "images/paradox_rift/043 - Volcanion - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "044",
+            "name": "Fuecoco (Normal)",
+            "image": "images/paradox_rift/044 - Fuecoco - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "045",
+            "name": "Fuecoco (Reverse Holofoil)",
+            "image": "images/paradox_rift/045 - Fuecoco - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "046",
+            "name": "Crocalor (Normal)",
+            "image": "images/paradox_rift/046 - Crocalor - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "047",
+            "name": "Crocalor (Reverse Holofoil)",
+            "image": "images/paradox_rift/047 - Crocalor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "048",
+            "name": "Charcadet (Normal)",
+            "image": "images/paradox_rift/048 - Charcadet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "049",
+            "name": "Charcadet (Reverse Holofoil)",
+            "image": "images/paradox_rift/049 - Charcadet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "050",
+            "name": "Charcadet (Normal)",
+            "image": "images/paradox_rift/050 - Charcadet - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "051",
+            "name": "Charcadet (Reverse Holofoil)",
+            "image": "images/paradox_rift/051 - Charcadet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "052",
+            "name": "Armarouge ex (Holofoil)",
+            "image": "images/paradox_rift/052 - Armarouge ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "053",
+            "name": "Iron Moth (Holofoil)",
+            "image": "images/paradox_rift/053 - Iron Moth - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "054",
+            "name": "Iron Moth (Reverse Holofoil)",
+            "image": "images/paradox_rift/054 - Iron Moth - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "055",
+            "name": "Chi-Yu (Holofoil)",
+            "image": "images/paradox_rift/055 - Chi-Yu - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "056",
+            "name": "Chi-Yu (Reverse Holofoil)",
+            "image": "images/paradox_rift/056 - Chi-Yu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "057",
+            "name": "Horsea (Normal)",
+            "image": "images/paradox_rift/057 - Horsea - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "058",
+            "name": "Horsea (Reverse Holofoil)",
+            "image": "images/paradox_rift/058 - Horsea - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "059",
+            "name": "Seadra (Normal)",
+            "image": "images/paradox_rift/059 - Seadra - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "060",
+            "name": "Seadra (Reverse Holofoil)",
+            "image": "images/paradox_rift/060 - Seadra - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "061",
+            "name": "Kingdra (Holofoil)",
+            "image": "images/paradox_rift/061 - Kingdra - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "062",
+            "name": "Kingdra (Reverse Holofoil)",
+            "image": "images/paradox_rift/062 - Kingdra - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "063",
+            "name": "Remoraid (Normal)",
+            "image": "images/paradox_rift/063 - Remoraid - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "064",
+            "name": "Remoraid (Reverse Holofoil)",
+            "image": "images/paradox_rift/064 - Remoraid - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "065",
+            "name": "Octillery (Normal)",
+            "image": "images/paradox_rift/065 - Octillery - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "066",
+            "name": "Octillery (Reverse Holofoil)",
+            "image": "images/paradox_rift/066 - Octillery - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "067",
+            "name": "Feebas (Normal)",
+            "image": "images/paradox_rift/067 - Feebas - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "068",
+            "name": "Feebas (Reverse Holofoil)",
+            "image": "images/paradox_rift/068 - Feebas - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "069",
+            "name": "Milotic (Holofoil)",
+            "image": "images/paradox_rift/069 - Milotic - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "070",
+            "name": "Milotic (Reverse Holofoil)",
+            "image": "images/paradox_rift/070 - Milotic - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "071",
+            "name": "Snorunt (Normal)",
+            "image": "images/paradox_rift/071 - Snorunt - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "072",
+            "name": "Snorunt (Reverse Holofoil)",
+            "image": "images/paradox_rift/072 - Snorunt - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "073",
+            "name": "Garchomp ex (Holofoil)",
+            "image": "images/paradox_rift/073 - Garchomp ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "074",
+            "name": "Mantyke (Normal)",
+            "image": "images/paradox_rift/074 - Mantyke - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "075",
+            "name": "Mantyke (Reverse Holofoil)",
+            "image": "images/paradox_rift/075 - Mantyke - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "076",
+            "name": "Palkia (Holofoil)",
+            "image": "images/paradox_rift/076 - Palkia - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "077",
+            "name": "Palkia (Reverse Holofoil)",
+            "image": "images/paradox_rift/077 - Palkia - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "078",
+            "name": "Panpour (Normal)",
+            "image": "images/paradox_rift/078 - Panpour - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "079",
+            "name": "Panpour (Reverse Holofoil)",
+            "image": "images/paradox_rift/079 - Panpour - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "080",
+            "name": "Simipour (Normal)",
+            "image": "images/paradox_rift/080 - Simipour - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "081",
+            "name": "Simipour (Reverse Holofoil)",
+            "image": "images/paradox_rift/081 - Simipour - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "082",
+            "name": "Vanillite (Normal)",
+            "image": "images/paradox_rift/082 - Vanillite - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "083",
+            "name": "Vanillite (Reverse Holofoil)",
+            "image": "images/paradox_rift/083 - Vanillite - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "084",
+            "name": "Vanillish (Normal)",
+            "image": "images/paradox_rift/084 - Vanillish - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "085",
+            "name": "Vanillish (Reverse Holofoil)",
+            "image": "images/paradox_rift/085 - Vanillish - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "086",
+            "name": "Vanilluxe (Normal)",
+            "image": "images/paradox_rift/086 - Vanilluxe - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "087",
+            "name": "Vanilluxe (Reverse Holofoil)",
+            "image": "images/paradox_rift/087 - Vanilluxe - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "088",
+            "name": "Tsareena ex (Holofoil)",
+            "image": "images/paradox_rift/088 - Tsareena ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "089",
+            "name": "Wimpod (Normal)",
+            "image": "images/paradox_rift/089 - Wimpod - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "090",
+            "name": "Wimpod (Reverse Holofoil)",
+            "image": "images/paradox_rift/090 - Wimpod - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "091",
+            "name": "Wimpod (Normal)",
+            "image": "images/paradox_rift/091 - Wimpod - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "092",
+            "name": "Wimpod (Reverse Holofoil)",
+            "image": "images/paradox_rift/092 - Wimpod - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "093",
+            "name": "Golisopod (Holofoil)",
+            "image": "images/paradox_rift/093 - Golisopod - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "094",
+            "name": "Golisopod (Reverse Holofoil)",
+            "image": "images/paradox_rift/094 - Golisopod - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "095",
+            "name": "Golisopod ex (Holofoil)",
+            "image": "images/paradox_rift/095 - Golisopod ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "096",
+            "name": "Wiglett (Normal)",
+            "image": "images/paradox_rift/096 - Wiglett - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "097",
+            "name": "Wiglett (Reverse Holofoil)",
+            "image": "images/paradox_rift/097 - Wiglett - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "098",
+            "name": "Wiglett (Normal)",
+            "image": "images/paradox_rift/098 - Wiglett - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "099",
+            "name": "Wiglett (Reverse Holofoil)",
+            "image": "images/paradox_rift/099 - Wiglett - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "100",
+            "name": "Wugtrio (Normal)",
+            "image": "images/paradox_rift/100 - Wugtrio - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "101",
+            "name": "Wugtrio (Reverse Holofoil)",
+            "image": "images/paradox_rift/101 - Wugtrio - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "102",
+            "name": "Veluza (Normal)",
+            "image": "images/paradox_rift/102 - Veluza - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "103",
+            "name": "Veluza (Reverse Holofoil)",
+            "image": "images/paradox_rift/103 - Veluza - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "104",
+            "name": "Dondozo (Normal)",
+            "image": "images/paradox_rift/104 - Dondozo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "105",
+            "name": "Dondozo (Reverse Holofoil)",
+            "image": "images/paradox_rift/105 - Dondozo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "106",
+            "name": "Iron Bundle (Normal)",
+            "image": "images/paradox_rift/106 - Iron Bundle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "107",
+            "name": "Iron Bundle (Reverse Holofoil)",
+            "image": "images/paradox_rift/107 - Iron Bundle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "108",
+            "name": "Chien-Pao (Holofoil)",
+            "image": "images/paradox_rift/108 - Chien-Pao - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "109",
+            "name": "Chien-Pao (Reverse Holofoil)",
+            "image": "images/paradox_rift/109 - Chien-Pao - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "110",
+            "name": "Mewtwo ex (Holofoil)",
+            "image": "images/paradox_rift/110 - Mewtwo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "111",
+            "name": "Elekid (Normal)",
+            "image": "images/paradox_rift/111 - Elekid - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "112",
+            "name": "Elekid (Reverse Holofoil)",
+            "image": "images/paradox_rift/112 - Elekid - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "113",
+            "name": "Plusle (Normal)",
+            "image": "images/paradox_rift/113 - Plusle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "114",
+            "name": "Plusle (Reverse Holofoil)",
+            "image": "images/paradox_rift/114 - Plusle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "115",
+            "name": "Minun (Normal)",
+            "image": "images/paradox_rift/115 - Minun - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "116",
+            "name": "Minun (Reverse Holofoil)",
+            "image": "images/paradox_rift/116 - Minun - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "117",
+            "name": "Blitzle (Normal)",
+            "image": "images/paradox_rift/117 - Blitzle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "118",
+            "name": "Blitzle (Reverse Holofoil)",
+            "image": "images/paradox_rift/118 - Blitzle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "119",
+            "name": "Zebstrika (Normal)",
+            "image": "images/paradox_rift/119 - Zebstrika - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "120",
+            "name": "Zebstrika (Reverse Holofoil)",
+            "image": "images/paradox_rift/120 - Zebstrika - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "121",
+            "name": "Joltik (Normal)",
+            "image": "images/paradox_rift/121 - Joltik - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "122",
+            "name": "Joltik (Reverse Holofoil)",
+            "image": "images/paradox_rift/122 - Joltik - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "123",
+            "name": "Galvantula (Normal)",
+            "image": "images/paradox_rift/123 - Galvantula - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "124",
+            "name": "Galvantula (Reverse Holofoil)",
+            "image": "images/paradox_rift/124 - Galvantula - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "125",
+            "name": "Zekrom (Holofoil)",
+            "image": "images/paradox_rift/125 - Zekrom - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "126",
+            "name": "Zekrom (Reverse Holofoil)",
+            "image": "images/paradox_rift/126 - Zekrom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "127",
+            "name": "Oricorio (Normal)",
+            "image": "images/paradox_rift/127 - Oricorio - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "128",
+            "name": "Oricorio (Reverse Holofoil)",
+            "image": "images/paradox_rift/128 - Oricorio - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "129",
+            "name": "Tapu Koko ex (Holofoil)",
+            "image": "images/paradox_rift/129 - Tapu Koko ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "130",
+            "name": "Toxel (Normal)",
+            "image": "images/paradox_rift/130 - Toxel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "131",
+            "name": "Toxel (Reverse Holofoil)",
+            "image": "images/paradox_rift/131 - Toxel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "132",
+            "name": "Iron Hands ex (Holofoil)",
+            "image": "images/paradox_rift/132 - Iron Hands ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "133",
+            "name": "Natu (Normal)",
+            "image": "images/paradox_rift/133 - Natu - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "134",
+            "name": "Natu (Reverse Holofoil)",
+            "image": "images/paradox_rift/134 - Natu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "135",
+            "name": "Xatu (Holofoil)",
+            "image": "images/paradox_rift/135 - Xatu - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "136",
+            "name": "Xatu (Reverse Holofoil)",
+            "image": "images/paradox_rift/136 - Xatu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "137",
+            "name": "Latios (Holofoil)",
+            "image": "images/paradox_rift/137 - Latios - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "138",
+            "name": "Latios (Reverse Holofoil)",
+            "image": "images/paradox_rift/138 - Latios - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "139",
+            "name": "Deoxys (Holofoil)",
+            "image": "images/paradox_rift/139 - Deoxys - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "140",
+            "name": "Deoxys (Reverse Holofoil)",
+            "image": "images/paradox_rift/140 - Deoxys - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "141",
+            "name": "Yamask (Normal)",
+            "image": "images/paradox_rift/141 - Yamask - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "142",
+            "name": "Yamask (Reverse Holofoil)",
+            "image": "images/paradox_rift/142 - Yamask - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "143",
+            "name": "Cofagrigus ex (Holofoil)",
+            "image": "images/paradox_rift/143 - Cofagrigus ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "144",
+            "name": "Pumpkaboo (Normal)",
+            "image": "images/paradox_rift/144 - Pumpkaboo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "145",
+            "name": "Pumpkaboo (Reverse Holofoil)",
+            "image": "images/paradox_rift/145 - Pumpkaboo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "146",
+            "name": "Gourgeist (Normal)",
+            "image": "images/paradox_rift/146 - Gourgeist - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "147",
+            "name": "Gourgeist (Reverse Holofoil)",
+            "image": "images/paradox_rift/147 - Gourgeist - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "148",
+            "name": "Flittle (Normal)",
+            "image": "images/paradox_rift/148 - Flittle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "149",
+            "name": "Flittle (Reverse Holofoil)",
+            "image": "images/paradox_rift/149 - Flittle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "150",
+            "name": "Flittle (Normal)",
+            "image": "images/paradox_rift/150 - Flittle - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "151",
+            "name": "Flittle (Reverse Holofoil)",
+            "image": "images/paradox_rift/151 - Flittle - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "152",
+            "name": "Espathra (Holofoil)",
+            "image": "images/paradox_rift/152 - Espathra - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "153",
+            "name": "Espathra (Reverse Holofoil)",
+            "image": "images/paradox_rift/153 - Espathra - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "154",
+            "name": "Tinkatink (Normal)",
+            "image": "images/paradox_rift/154 - Tinkatink - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "155",
+            "name": "Tinkatink (Reverse Holofoil)",
+            "image": "images/paradox_rift/155 - Tinkatink - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "156",
+            "name": "Tinkatink (Normal)",
+            "image": "images/paradox_rift/156 - Tinkatink - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "157",
+            "name": "Tinkatink (Reverse Holofoil)",
+            "image": "images/paradox_rift/157 - Tinkatink - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "158",
+            "name": "Tinkatuff (Normal)",
+            "image": "images/paradox_rift/158 - Tinkatuff - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "159",
+            "name": "Tinkatuff (Reverse Holofoil)",
+            "image": "images/paradox_rift/159 - Tinkatuff - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "160",
+            "name": "Tinkaton (Normal)",
+            "image": "images/paradox_rift/160 - Tinkaton - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "161",
+            "name": "Tinkaton (Reverse Holofoil)",
+            "image": "images/paradox_rift/161 - Tinkaton - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "162",
+            "name": "Scream Tail (Normal)",
+            "image": "images/paradox_rift/162 - Scream Tail - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "163",
+            "name": "Scream Tail (Reverse Holofoil)",
+            "image": "images/paradox_rift/163 - Scream Tail - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "164",
+            "name": "Gimmighoul (Normal)",
+            "image": "images/paradox_rift/164 - Gimmighoul - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "165",
+            "name": "Gimmighoul (Reverse Holofoil)",
+            "image": "images/paradox_rift/165 - Gimmighoul - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "166",
+            "name": "Gimmighoul (Normal)",
+            "image": "images/paradox_rift/166 - Gimmighoul - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "167",
+            "name": "Gimmighoul (Reverse Holofoil)",
+            "image": "images/paradox_rift/167 - Gimmighoul - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "168",
+            "name": "Iron Valiant ex (Holofoil)",
+            "image": "images/paradox_rift/168 - Iron Valiant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "169",
+            "name": "Onix (Normal)",
+            "image": "images/paradox_rift/169 - Onix - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "170",
+            "name": "Onix (Reverse Holofoil)",
+            "image": "images/paradox_rift/170 - Onix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "171",
+            "name": "Gligar (Normal)",
+            "image": "images/paradox_rift/171 - Gligar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "172",
+            "name": "Gligar (Reverse Holofoil)",
+            "image": "images/paradox_rift/172 - Gligar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "173",
+            "name": "Gliscor (Normal)",
+            "image": "images/paradox_rift/173 - Gliscor - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "174",
+            "name": "Gliscor (Reverse Holofoil)",
+            "image": "images/paradox_rift/174 - Gliscor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "175",
+            "name": "Groudon (Holofoil)",
+            "image": "images/paradox_rift/175 - Groudon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "176",
+            "name": "Groudon (Reverse Holofoil)",
+            "image": "images/paradox_rift/176 - Groudon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "177",
+            "name": "Gible (Normal)",
+            "image": "images/paradox_rift/177 - Gible - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "178",
+            "name": "Gible (Reverse Holofoil)",
+            "image": "images/paradox_rift/178 - Gible - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "179",
+            "name": "Gabite (Normal)",
+            "image": "images/paradox_rift/179 - Gabite - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "180",
+            "name": "Gabite (Reverse Holofoil)",
+            "image": "images/paradox_rift/180 - Gabite - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "181",
+            "name": "Mienfoo (Normal)",
+            "image": "images/paradox_rift/181 - Mienfoo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "182",
+            "name": "Mienfoo (Reverse Holofoil)",
+            "image": "images/paradox_rift/182 - Mienfoo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "183",
+            "name": "Mienshao (Normal)",
+            "image": "images/paradox_rift/183 - Mienshao - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "184",
+            "name": "Mienshao (Reverse Holofoil)",
+            "image": "images/paradox_rift/184 - Mienshao - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "185",
+            "name": "Hoopa ex (Holofoil)",
+            "image": "images/paradox_rift/185 - Hoopa ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "186",
+            "name": "Minior (Normal)",
+            "image": "images/paradox_rift/186 - Minior - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "187",
+            "name": "Minior (Reverse Holofoil)",
+            "image": "images/paradox_rift/187 - Minior - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "188",
+            "name": "Toxtricity ex (Holofoil)",
+            "image": "images/paradox_rift/188 - Toxtricity ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "189",
+            "name": "Nacli (Normal)",
+            "image": "images/paradox_rift/189 - Nacli - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "190",
+            "name": "Nacli (Reverse Holofoil)",
+            "image": "images/paradox_rift/190 - Nacli - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "191",
+            "name": "Nacli (Normal)",
+            "image": "images/paradox_rift/191 - Nacli - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "192",
+            "name": "Nacli (Reverse Holofoil)",
+            "image": "images/paradox_rift/192 - Nacli - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "193",
+            "name": "Naclstack (Normal)",
+            "image": "images/paradox_rift/193 - Naclstack - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "194",
+            "name": "Naclstack (Reverse Holofoil)",
+            "image": "images/paradox_rift/194 - Naclstack - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "195",
+            "name": "Garganacl (Holofoil)",
+            "image": "images/paradox_rift/195 - Garganacl - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "196",
+            "name": "Garganacl (Reverse Holofoil)",
+            "image": "images/paradox_rift/196 - Garganacl - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "197",
+            "name": "Klawf (Normal)",
+            "image": "images/paradox_rift/197 - Klawf - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "198",
+            "name": "Klawf (Reverse Holofoil)",
+            "image": "images/paradox_rift/198 - Klawf - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "199",
+            "name": "Flamigo (Normal)",
+            "image": "images/paradox_rift/199 - Flamigo - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "200",
+            "name": "Flamigo (Reverse Holofoil)",
+            "image": "images/paradox_rift/200 - Flamigo - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "201",
+            "name": "Slither Wing (Normal)",
+            "image": "images/paradox_rift/201 - Slither Wing - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "202",
+            "name": "Slither Wing (Reverse Holofoil)",
+            "image": "images/paradox_rift/202 - Slither Wing - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "203",
+            "name": "Sandy Shocks ex (Holofoil)",
+            "image": "images/paradox_rift/203 - Sandy Shocks ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "204",
+            "name": "Ting-Lu (Holofoil)",
+            "image": "images/paradox_rift/204 - Ting-Lu - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "205",
+            "name": "Ting-Lu (Reverse Holofoil)",
+            "image": "images/paradox_rift/205 - Ting-Lu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "206",
+            "name": "Zubat (Normal)",
+            "image": "images/paradox_rift/206 - Zubat - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "207",
+            "name": "Zubat (Reverse Holofoil)",
+            "image": "images/paradox_rift/207 - Zubat - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "208",
+            "name": "Golbat (Normal)",
+            "image": "images/paradox_rift/208 - Golbat - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "209",
+            "name": "Golbat (Reverse Holofoil)",
+            "image": "images/paradox_rift/209 - Golbat - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "210",
+            "name": "Crobat (Normal)",
+            "image": "images/paradox_rift/210 - Crobat - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "211",
+            "name": "Crobat (Reverse Holofoil)",
+            "image": "images/paradox_rift/211 - Crobat - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "212",
+            "name": "Absol (Normal)",
+            "image": "images/paradox_rift/212 - Absol - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "213",
+            "name": "Absol (Reverse Holofoil)",
+            "image": "images/paradox_rift/213 - Absol - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "214",
+            "name": "Purrloin (Normal)",
+            "image": "images/paradox_rift/214 - Purrloin - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "215",
+            "name": "Purrloin (Reverse Holofoil)",
+            "image": "images/paradox_rift/215 - Purrloin - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "216",
+            "name": "Liepard (Normal)",
+            "image": "images/paradox_rift/216 - Liepard - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "217",
+            "name": "Liepard (Reverse Holofoil)",
+            "image": "images/paradox_rift/217 - Liepard - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "218",
+            "name": "Trubbish (Normal)",
+            "image": "images/paradox_rift/218 - Trubbish - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "219",
+            "name": "Trubbish (Reverse Holofoil)",
+            "image": "images/paradox_rift/219 - Trubbish - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "220",
+            "name": "Garbodor (Normal)",
+            "image": "images/paradox_rift/220 - Garbodor - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "221",
+            "name": "Garbodor (Reverse Holofoil)",
+            "image": "images/paradox_rift/221 - Garbodor - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "222",
+            "name": "Yveltal (Holofoil)",
+            "image": "images/paradox_rift/222 - Yveltal - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "223",
+            "name": "Yveltal (Reverse Holofoil)",
+            "image": "images/paradox_rift/223 - Yveltal - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "224",
+            "name": "Nickit (Normal)",
+            "image": "images/paradox_rift/224 - Nickit - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "225",
+            "name": "Nickit (Reverse Holofoil)",
+            "image": "images/paradox_rift/225 - Nickit - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "226",
+            "name": "Thievul (Holofoil)",
+            "image": "images/paradox_rift/226 - Thievul - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "227",
+            "name": "Thievul (Reverse Holofoil)",
+            "image": "images/paradox_rift/227 - Thievul - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "228",
+            "name": "Morpeko (Holofoil)",
+            "image": "images/paradox_rift/228 - Morpeko - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "229",
+            "name": "Morpeko (Reverse Holofoil)",
+            "image": "images/paradox_rift/229 - Morpeko - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "230",
+            "name": "Lokix (Holofoil)",
+            "image": "images/paradox_rift/230 - Lokix - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "231",
+            "name": "Lokix (Reverse Holofoil)",
+            "image": "images/paradox_rift/231 - Lokix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "232",
+            "name": "Brute Bonnet (Holofoil)",
+            "image": "images/paradox_rift/232 - Brute Bonnet - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "233",
+            "name": "Brute Bonnet (Reverse Holofoil)",
+            "image": "images/paradox_rift/233 - Brute Bonnet - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "234",
+            "name": "Roaring Moon ex (Holofoil)",
+            "image": "images/paradox_rift/234 - Roaring Moon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "235",
+            "name": "Steelix (Holofoil)",
+            "image": "images/paradox_rift/235 - Steelix - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "236",
+            "name": "Steelix (Reverse Holofoil)",
+            "image": "images/paradox_rift/236 - Steelix - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "237",
+            "name": "Jirachi (Normal)",
+            "image": "images/paradox_rift/237 - Jirachi - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "238",
+            "name": "Jirachi (Reverse Holofoil)",
+            "image": "images/paradox_rift/238 - Jirachi - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "239",
+            "name": "Ferroseed (Normal)",
+            "image": "images/paradox_rift/239 - Ferroseed - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "240",
+            "name": "Ferroseed (Reverse Holofoil)",
+            "image": "images/paradox_rift/240 - Ferroseed - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "241",
+            "name": "Ferrothorn (Normal)",
+            "image": "images/paradox_rift/241 - Ferrothorn - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "242",
+            "name": "Ferrothorn (Reverse Holofoil)",
+            "image": "images/paradox_rift/242 - Ferrothorn - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "243",
+            "name": "Durant (Normal)",
+            "image": "images/paradox_rift/243 - Durant - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "244",
+            "name": "Durant (Reverse Holofoil)",
+            "image": "images/paradox_rift/244 - Durant - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "245",
+            "name": "Honedge (Normal)",
+            "image": "images/paradox_rift/245 - Honedge - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "246",
+            "name": "Honedge (Reverse Holofoil)",
+            "image": "images/paradox_rift/246 - Honedge - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "247",
+            "name": "Honedge (Normal)",
+            "image": "images/paradox_rift/247 - Honedge - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "248",
+            "name": "Honedge (Reverse Holofoil)",
+            "image": "images/paradox_rift/248 - Honedge - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "249",
+            "name": "Doublade (Normal)",
+            "image": "images/paradox_rift/249 - Doublade - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "250",
+            "name": "Doublade (Reverse Holofoil)",
+            "image": "images/paradox_rift/250 - Doublade - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "251",
+            "name": "Doublade (Normal)",
+            "image": "images/paradox_rift/251 - Doublade - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "252",
+            "name": "Doublade (Reverse Holofoil)",
+            "image": "images/paradox_rift/252 - Doublade - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "253",
+            "name": "Aegislash (Holofoil)",
+            "image": "images/paradox_rift/253 - Aegislash - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "254",
+            "name": "Aegislash (Reverse Holofoil)",
+            "image": "images/paradox_rift/254 - Aegislash - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "255",
+            "name": "Aegislash ex (Holofoil)",
+            "image": "images/paradox_rift/255 - Aegislash ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "256",
+            "name": "Zacian (Holofoil)",
+            "image": "images/paradox_rift/256 - Zacian - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "257",
+            "name": "Zacian (Reverse Holofoil)",
+            "image": "images/paradox_rift/257 - Zacian - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "258",
+            "name": "Skeledirge ex (Holofoil)",
+            "image": "images/paradox_rift/258 - Skeledirge ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "259",
+            "name": "Orthworm (Normal)",
+            "image": "images/paradox_rift/259 - Orthworm - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "260",
+            "name": "Orthworm (Reverse Holofoil)",
+            "image": "images/paradox_rift/260 - Orthworm - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "261",
+            "name": "Gholdengo ex (Holofoil)",
+            "image": "images/paradox_rift/261 - Gholdengo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "262",
+            "name": "Altaria ex (Holofoil)",
+            "image": "images/paradox_rift/262 - Altaria ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "263",
+            "name": "Tatsugiri (Normal)",
+            "image": "images/paradox_rift/263 - Tatsugiri - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "264",
+            "name": "Tatsugiri (Reverse Holofoil)",
+            "image": "images/paradox_rift/264 - Tatsugiri - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "265",
+            "name": "Porygon (Normal)",
+            "image": "images/paradox_rift/265 - Porygon - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "266",
+            "name": "Porygon (Reverse Holofoil)",
+            "image": "images/paradox_rift/266 - Porygon - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "267",
+            "name": "Porygon2 (Normal)",
+            "image": "images/paradox_rift/267 - Porygon2 - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "268",
+            "name": "Porygon2 (Reverse Holofoil)",
+            "image": "images/paradox_rift/268 - Porygon2 - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "269",
+            "name": "Porygon-Z (Holofoil)",
+            "image": "images/paradox_rift/269 - Porygon-Z - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "270",
+            "name": "Porygon-Z (Reverse Holofoil)",
+            "image": "images/paradox_rift/270 - Porygon-Z - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "271",
+            "name": "Aipom (Normal)",
+            "image": "images/paradox_rift/271 - Aipom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "272",
+            "name": "Aipom (Reverse Holofoil)",
+            "image": "images/paradox_rift/272 - Aipom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "273",
+            "name": "Ambipom (Normal)",
+            "image": "images/paradox_rift/273 - Ambipom - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "274",
+            "name": "Ambipom (Reverse Holofoil)",
+            "image": "images/paradox_rift/274 - Ambipom - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "275",
+            "name": "Miltank (Normal)",
+            "image": "images/paradox_rift/275 - Miltank - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "276",
+            "name": "Miltank (Reverse Holofoil)",
+            "image": "images/paradox_rift/276 - Miltank - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "277",
+            "name": "Whismur (Normal)",
+            "image": "images/paradox_rift/277 - Whismur - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "278",
+            "name": "Whismur (Reverse Holofoil)",
+            "image": "images/paradox_rift/278 - Whismur - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "279",
+            "name": "Loudred (Normal)",
+            "image": "images/paradox_rift/279 - Loudred - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "280",
+            "name": "Loudred (Reverse Holofoil)",
+            "image": "images/paradox_rift/280 - Loudred - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "281",
+            "name": "Exploud (Normal)",
+            "image": "images/paradox_rift/281 - Exploud - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "282",
+            "name": "Exploud (Reverse Holofoil)",
+            "image": "images/paradox_rift/282 - Exploud - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "283",
+            "name": "Spinda (Normal)",
+            "image": "images/paradox_rift/283 - Spinda - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "284",
+            "name": "Spinda (Reverse Holofoil)",
+            "image": "images/paradox_rift/284 - Spinda - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "285",
+            "name": "Swablu (Normal)",
+            "image": "images/paradox_rift/285 - Swablu - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "286",
+            "name": "Swablu (Reverse Holofoil)",
+            "image": "images/paradox_rift/286 - Swablu - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "287",
+            "name": "Tandemaus (Normal)",
+            "image": "images/paradox_rift/287 - Tandemaus - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "288",
+            "name": "Tandemaus (Reverse Holofoil)",
+            "image": "images/paradox_rift/288 - Tandemaus - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "289",
+            "name": "Tandemaus (Normal)",
+            "image": "images/paradox_rift/289 - Tandemaus - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "290",
+            "name": "Tandemaus (Reverse Holofoil)",
+            "image": "images/paradox_rift/290 - Tandemaus - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "291",
+            "name": "Maushold ex (Holofoil)",
+            "image": "images/paradox_rift/291 - Maushold ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "292",
+            "name": "Bombirdier ex (Holofoil)",
+            "image": "images/paradox_rift/292 - Bombirdier ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "293",
+            "name": "Cyclizar (Normal)",
+            "image": "images/paradox_rift/293 - Cyclizar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "294",
+            "name": "Cyclizar (Reverse Holofoil)",
+            "image": "images/paradox_rift/294 - Cyclizar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "295",
+            "name": "Iron Jugulis (Holofoil)",
+            "image": "images/paradox_rift/295 - Iron Jugulis - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "296",
+            "name": "Iron Jugulis (Reverse Holofoil)",
+            "image": "images/paradox_rift/296 - Iron Jugulis - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "297",
+            "name": "Ancient Booster Energy Capsule (Normal)",
+            "image": "images/paradox_rift/297 - Ancient Booster Energy Capsule - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "298",
+            "name": "Ancient Booster Energy Capsule (Reverse Holofoil)",
+            "image": "images/paradox_rift/298 - Ancient Booster Energy Capsule - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "299",
+            "name": "Counter Catcher (Normal)",
+            "image": "images/paradox_rift/299 - Counter Catcher - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "300",
+            "name": "Counter Catcher (Reverse Holofoil)",
+            "image": "images/paradox_rift/300 - Counter Catcher - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "301",
+            "name": "Cursed Duster (Normal)",
+            "image": "images/paradox_rift/301 - Cursed Duster - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "302",
+            "name": "Cursed Duster (Reverse Holofoil)",
+            "image": "images/paradox_rift/302 - Cursed Duster - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "303",
+            "name": "Defiance Vest (Normal)",
+            "image": "images/paradox_rift/303 - Defiance Vest - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "304",
+            "name": "Defiance Vest (Reverse Holofoil)",
+            "image": "images/paradox_rift/304 - Defiance Vest - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "305",
+            "name": "Earthen Vessel (Normal)",
+            "image": "images/paradox_rift/305 - Earthen Vessel - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "306",
+            "name": "Earthen Vessel (Reverse Holofoil)",
+            "image": "images/paradox_rift/306 - Earthen Vessel - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "307",
+            "name": "Future Booster Energy Capsule (Normal)",
+            "image": "images/paradox_rift/307 - Future Booster Energy Capsule - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "308",
+            "name": "Future Booster Energy Capsule (Reverse Holofoil)",
+            "image": "images/paradox_rift/308 - Future Booster Energy Capsule - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "309",
+            "name": "Larry (Normal)",
+            "image": "images/paradox_rift/309 - Larry - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "310",
+            "name": "Larry (Reverse Holofoil)",
+            "image": "images/paradox_rift/310 - Larry - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "311",
+            "name": "Luxurious Cape (Normal)",
+            "image": "images/paradox_rift/311 - Luxurious Cape - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "312",
+            "name": "Luxurious Cape (Reverse Holofoil)",
+            "image": "images/paradox_rift/312 - Luxurious Cape - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "313",
+            "name": "Mela (Normal)",
+            "image": "images/paradox_rift/313 - Mela - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "314",
+            "name": "Mela (Reverse Holofoil)",
+            "image": "images/paradox_rift/314 - Mela - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "315",
+            "name": "Norman (Normal)",
+            "image": "images/paradox_rift/315 - Norman - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "316",
+            "name": "Norman (Reverse Holofoil)",
+            "image": "images/paradox_rift/316 - Norman - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "317",
+            "name": "Parasol Lady (Normal)",
+            "image": "images/paradox_rift/317 - Parasol Lady - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "318",
+            "name": "Parasol Lady (Reverse Holofoil)",
+            "image": "images/paradox_rift/318 - Parasol Lady - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "319",
+            "name": "Professor Sada's Vitality (Normal)",
+            "image": "images/paradox_rift/319 - Professor Sada's Vitality - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "320",
+            "name": "Professor Sada's Vitality (Reverse Holofoil)",
+            "image": "images/paradox_rift/320 - Professor Sada's Vitality - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "321",
+            "name": "Professor Turo's Scenario (Normal)",
+            "image": "images/paradox_rift/321 - Professor Turo's Scenario - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "322",
+            "name": "Professor Turo's Scenario (Reverse Holofoil)",
+            "image": "images/paradox_rift/322 - Professor Turo's Scenario - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "323",
+            "name": "Rika (Normal)",
+            "image": "images/paradox_rift/323 - Rika - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "324",
+            "name": "Rika (Reverse Holofoil)",
+            "image": "images/paradox_rift/324 - Rika - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "325",
+            "name": "Roark (Normal)",
+            "image": "images/paradox_rift/325 - Roark - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "326",
+            "name": "Roark (Reverse Holofoil)",
+            "image": "images/paradox_rift/326 - Roark - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "327",
+            "name": "Shauntal (Normal)",
+            "image": "images/paradox_rift/327 - Shauntal - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "328",
+            "name": "Shauntal (Reverse Holofoil)",
+            "image": "images/paradox_rift/328 - Shauntal - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "329",
+            "name": "Snorlax Doll (Normal)",
+            "image": "images/paradox_rift/329 - Snorlax Doll - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "330",
+            "name": "Snorlax Doll (Reverse Holofoil)",
+            "image": "images/paradox_rift/330 - Snorlax Doll - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "339",
+            "name": "Techno Radar (Normal)",
+            "image": "images/paradox_rift/339 - Techno Radar - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "340",
+            "name": "Techno Radar (Reverse Holofoil)",
+            "image": "images/paradox_rift/340 - Techno Radar - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "341",
+            "name": "Tulip (Normal)",
+            "image": "images/paradox_rift/341 - Tulip - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "342",
+            "name": "Tulip (Reverse Holofoil)",
+            "image": "images/paradox_rift/342 - Tulip - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "343",
+            "name": "Medical Energy (Normal)",
+            "image": "images/paradox_rift/343 - Medical Energy - (Normal).png",
+            "quantity": 0
+        },
+        {
+            "id": "344",
+            "name": "Medical Energy (Reverse Holofoil)",
+            "image": "images/paradox_rift/344 - Medical Energy - (Reverse Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "345",
+            "name": "Crustle (Holofoil)",
+            "image": "images/paradox_rift/345 - Crustle - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "346",
+            "name": "Dottler (Holofoil)",
+            "image": "images/paradox_rift/346 - Dottler - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "347",
+            "name": "Toedscruel (Holofoil)",
+            "image": "images/paradox_rift/347 - Toedscruel - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "348",
+            "name": "Magby (Holofoil)",
+            "image": "images/paradox_rift/348 - Magby - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "349",
+            "name": "Iron Moth (Holofoil)",
+            "image": "images/paradox_rift/349 - Iron Moth - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "350",
+            "name": "Snorunt (Holofoil)",
+            "image": "images/paradox_rift/350 - Snorunt - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "351",
+            "name": "Mantyke (Holofoil)",
+            "image": "images/paradox_rift/351 - Mantyke - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "352",
+            "name": "Vanillish (Holofoil)",
+            "image": "images/paradox_rift/352 - Vanillish - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "353",
+            "name": "Wimpod (Holofoil)",
+            "image": "images/paradox_rift/353 - Wimpod - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "354",
+            "name": "Veluza (Holofoil)",
+            "image": "images/paradox_rift/354 - Veluza - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "355",
+            "name": "Plusle (Holofoil)",
+            "image": "images/paradox_rift/355 - Plusle - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "356",
+            "name": "Minun (Holofoil)",
+            "image": "images/paradox_rift/356 - Minun - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "357",
+            "name": "Blitzle (Holofoil)",
+            "image": "images/paradox_rift/357 - Blitzle - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "358",
+            "name": "Joltik (Holofoil)",
+            "image": "images/paradox_rift/358 - Joltik - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "359",
+            "name": "Espathra (Holofoil)",
+            "image": "images/paradox_rift/359 - Espathra - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "360",
+            "name": "Gimmighoul (Holofoil)",
+            "image": "images/paradox_rift/360 - Gimmighoul - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "361",
+            "name": "Groudon (Holofoil)",
+            "image": "images/paradox_rift/361 - Groudon - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "362",
+            "name": "Mienshao (Holofoil)",
+            "image": "images/paradox_rift/362 - Mienshao - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "363",
+            "name": "Minior (Holofoil)",
+            "image": "images/paradox_rift/363 - Minior - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "364",
+            "name": "Garganacl (Holofoil)",
+            "image": "images/paradox_rift/364 - Garganacl - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "365",
+            "name": "Slither Wing (Holofoil)",
+            "image": "images/paradox_rift/365 - Slither Wing - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "366",
+            "name": "Garbodor (Holofoil)",
+            "image": "images/paradox_rift/366 - Garbodor - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "367",
+            "name": "Yveltal (Holofoil)",
+            "image": "images/paradox_rift/367 - Yveltal - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "368",
+            "name": "Morpeko (Holofoil)",
+            "image": "images/paradox_rift/368 - Morpeko - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "369",
+            "name": "Brute Bonnet (Holofoil)",
+            "image": "images/paradox_rift/369 - Brute Bonnet - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "370",
+            "name": "Steelix (Holofoil)",
+            "image": "images/paradox_rift/370 - Steelix - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "371",
+            "name": "Ferrothorn (Holofoil)",
+            "image": "images/paradox_rift/371 - Ferrothorn - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "372",
+            "name": "Aegislash (Holofoil)",
+            "image": "images/paradox_rift/372 - Aegislash - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "373",
+            "name": "Aipom (Holofoil)",
+            "image": "images/paradox_rift/373 - Aipom - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "374",
+            "name": "Loudred (Holofoil)",
+            "image": "images/paradox_rift/374 - Loudred - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "375",
+            "name": "Swablu (Holofoil)",
+            "image": "images/paradox_rift/375 - Swablu - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "376",
+            "name": "Porygon-Z (Holofoil)",
+            "image": "images/paradox_rift/376 - Porygon-Z - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "377",
+            "name": "Cyclizar (Holofoil)",
+            "image": "images/paradox_rift/377 - Cyclizar - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "378",
+            "name": "Iron Jugulis (Holofoil)",
+            "image": "images/paradox_rift/378 - Iron Jugulis - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "379",
+            "name": "Froslass ex (Holofoil)",
+            "image": "images/paradox_rift/379 - Froslass ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "380",
+            "name": "Armarouge ex (Holofoil)",
+            "image": "images/paradox_rift/380 - Armarouge ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "381",
+            "name": "Garchomp ex (Holofoil)",
+            "image": "images/paradox_rift/381 - Garchomp ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "382",
+            "name": "Tsareena ex (Holofoil)",
+            "image": "images/paradox_rift/382 - Tsareena ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "383",
+            "name": "Golisopod ex (Holofoil)",
+            "image": "images/paradox_rift/383 - Golisopod ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "384",
+            "name": "Tapu Koko ex (Holofoil)",
+            "image": "images/paradox_rift/384 - Tapu Koko ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "385",
+            "name": "Iron Hands ex (Holofoil)",
+            "image": "images/paradox_rift/385 - Iron Hands ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "386",
+            "name": "Cofagrigus ex (Holofoil)",
+            "image": "images/paradox_rift/386 - Cofagrigus ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "387",
+            "name": "Iron Valiant ex (Holofoil)",
+            "image": "images/paradox_rift/387 - Iron Valiant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "388",
+            "name": "Hoopa ex (Holofoil)",
+            "image": "images/paradox_rift/388 - Hoopa ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "389",
+            "name": "Toxtricity ex (Holofoil)",
+            "image": "images/paradox_rift/389 - Toxtricity ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "390",
+            "name": "Sandy Shocks ex (Holofoil)",
+            "image": "images/paradox_rift/390 - Sandy Shocks ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "391",
+            "name": "Roaring Moon ex (Holofoil)",
+            "image": "images/paradox_rift/391 - Roaring Moon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "392",
+            "name": "Aegislash ex (Holofoil)",
+            "image": "images/paradox_rift/392 - Aegislash ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "393",
+            "name": "Gholdengo ex (Holofoil)",
+            "image": "images/paradox_rift/393 - Gholdengo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "394",
+            "name": "Altaria ex (Holofoil)",
+            "image": "images/paradox_rift/394 - Altaria ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "395",
+            "name": "Maushold ex (Holofoil)",
+            "image": "images/paradox_rift/395 - Maushold ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "396",
+            "name": "Bombirdier ex (Holofoil)",
+            "image": "images/paradox_rift/396 - Bombirdier ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "397",
+            "name": "Larry (Holofoil)",
+            "image": "images/paradox_rift/397 - Larry - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "398",
+            "name": "Mela (Holofoil)",
+            "image": "images/paradox_rift/398 - Mela - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "399",
+            "name": "Norman (Holofoil)",
+            "image": "images/paradox_rift/399 - Norman - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "400",
+            "name": "Parasol Lady (Holofoil)",
+            "image": "images/paradox_rift/400 - Parasol Lady - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "401",
+            "name": "Professor Sada's Vitality (Holofoil)",
+            "image": "images/paradox_rift/401 - Professor Sada's Vitality - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "402",
+            "name": "Professor Turo's Scenario (Holofoil)",
+            "image": "images/paradox_rift/402 - Professor Turo's Scenario - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "403",
+            "name": "Rika (Holofoil)",
+            "image": "images/paradox_rift/403 - Rika - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "404",
+            "name": "Roark (Holofoil)",
+            "image": "images/paradox_rift/404 - Roark - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "405",
+            "name": "Shauntal (Holofoil)",
+            "image": "images/paradox_rift/405 - Shauntal - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "406",
+            "name": "Tulip (Holofoil)",
+            "image": "images/paradox_rift/406 - Tulip - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "407",
+            "name": "Garchomp ex (Holofoil)",
+            "image": "images/paradox_rift/407 - Garchomp ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "408",
+            "name": "Golisopod ex (Holofoil)",
+            "image": "images/paradox_rift/408 - Golisopod ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "409",
+            "name": "Tapu Koko ex (Holofoil)",
+            "image": "images/paradox_rift/409 - Tapu Koko ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "410",
+            "name": "Iron Hands ex (Holofoil)",
+            "image": "images/paradox_rift/410 - Iron Hands ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "411",
+            "name": "Iron Valiant ex (Holofoil)",
+            "image": "images/paradox_rift/411 - Iron Valiant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "412",
+            "name": "Sandy Shocks ex (Holofoil)",
+            "image": "images/paradox_rift/412 - Sandy Shocks ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "413",
+            "name": "Roaring Moon ex (Holofoil)",
+            "image": "images/paradox_rift/413 - Roaring Moon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "414",
+            "name": "Gholdengo ex (Holofoil)",
+            "image": "images/paradox_rift/414 - Gholdengo ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "415",
+            "name": "Altaria ex (Holofoil)",
+            "image": "images/paradox_rift/415 - Altaria ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "416",
+            "name": "Mela (Holofoil)",
+            "image": "images/paradox_rift/416 - Mela - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "417",
+            "name": "Parasol Lady (Holofoil)",
+            "image": "images/paradox_rift/417 - Parasol Lady - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "418",
+            "name": "Professor Sada's Vitality (Holofoil)",
+            "image": "images/paradox_rift/418 - Professor Sada's Vitality - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "419",
+            "name": "Professor Turo's Scenario (Holofoil)",
+            "image": "images/paradox_rift/419 - Professor Turo's Scenario - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "420",
+            "name": "Rika (Holofoil)",
+            "image": "images/paradox_rift/420 - Rika - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "421",
+            "name": "Tulip (Holofoil)",
+            "image": "images/paradox_rift/421 - Tulip - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "422",
+            "name": "Garchomp ex (Holofoil)",
+            "image": "images/paradox_rift/422 - Garchomp ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "423",
+            "name": "Iron Valiant ex (Holofoil)",
+            "image": "images/paradox_rift/423 - Iron Valiant ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "424",
+            "name": "Roaring Moon ex (Holofoil)",
+            "image": "images/paradox_rift/424 - Roaring Moon ex - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "425",
+            "name": "Beach Court (Holofoil)",
+            "image": "images/paradox_rift/425 - Beach Court - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "426",
+            "name": "Counter Catcher (Holofoil)",
+            "image": "images/paradox_rift/426 - Counter Catcher - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "427",
+            "name": "Luxurious Cape (Holofoil)",
+            "image": "images/paradox_rift/427 - Luxurious Cape - (Holofoil).png",
+            "quantity": 0
+        },
+        {
+            "id": "428",
+            "name": "Reversal Energy (Holofoil)",
+            "image": "images/paradox_rift/428 - Reversal Energy - (Holofoil).png",
+            "quantity": 0
+        }
+    ]
+}

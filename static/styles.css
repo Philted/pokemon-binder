@@ -1,0 +1,417 @@
+/* Add your styles here */
+:root {
+    --binder-width: 4;
+    --binder-height: 3;
+    --binder-color: #ffcc00;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#home-screen {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+#home-screen h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#home-screen button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#home-screen button:hover {
+    background-color: #555;
+}
+
+#binder {
+    width: 80%;
+    margin: 20px auto;
+    border: 10px solid var(--binder-color);
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #fff;
+    display: none;
+    text-align: center;
+    position: relative; /* Add relative positioning */
+}
+
+#progress-container {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.progress-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#card-count {
+    text-align: left;
+}
+
+#progress-bar {
+    width: 100%;
+    background-color: #ddd;
+    position: relative;
+    margin: 0 10px;
+    border-radius: 10px; /* Add rounded edges */
+    overflow: hidden; /* Ensure the progress bar doesn't overflow */
+}
+
+#progress {
+    width: 0%;
+    height: 20px;
+    background-color: var(--binder-color); /* Use binder color for progress bar filler */
+    transition: width 0.3s, background-color 0.3s;
+    border-radius: 10px; /* Add rounded edges */
+}
+
+#progress-percentage {
+    text-align: right;
+}
+
+#page-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 50%;
+    width: 100%;
+}
+
+#binder-pages {
+    display: grid;
+    grid-template-columns: repeat(var(--binder-width), 1fr);
+    grid-template-rows: repeat(var(--binder-height), auto);
+    gap: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    border: 2px solid var(--card-border-color, var(--binder-color));
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    transition: transform 0.3s, border-color 0.3s;
+    margin: 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 100%;
+    max-width: 150px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    cursor: pointer; /* Add cursor pointer to indicate clickability */
+}
+
+.card[data-type="normal"] {
+    --card-border-color: black;
+}
+
+.card[data-type="reverse_holofoil"] {
+    --card-border-color: rgb(0, 217, 255);
+}
+
+.card[data-type="holofoil"] {
+    --card-border-color: rgb(255, 81, 0);
+}
+
+.card img {
+    width: 100%;
+    filter: grayscale(100%);
+    transition: filter 0.3s;
+    max-width: 100%;
+    height: auto;
+}
+
+.card.active img {
+    filter: none;
+}
+
+.card.active {
+    border-color: #4caf50;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    border-color: #555;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #ddd;
+}
+
+.nav-button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.nav-button:hover {
+    background-color: #555;
+}
+
+.nav-button-left {
+    position: relative;
+    top: 50%;
+}
+
+.nav-button-right {
+    position: relative;
+    top: 50%;
+}
+
+.page-buttons {
+    display: flex;
+    gap: 5px;
+}
+
+.page-button {
+    padding: 5px 10px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.page-button:hover {
+    background-color: #555;
+}
+
+.page-button.active {
+    background-color: var(--binder-color);
+}
+
+.progress-marker {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    background-color: #333;
+    border-radius: 50%;
+}
+
+#settings-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    background-color: var(--binder-color);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Adjust width to make the modal smaller */
+    max-width: 500px; /* Set a maximum width */
+    border-radius: 10px; /* Add rounded edges */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#settings-button img {
+    width: 30px;
+    height: 30px;
+}
+
+#settings-modal button {
+    margin-top: 10px;
+}
+
+#reset-confirmation-modal {
+    display: none;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+#reset-confirmation-modal .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Adjust width to make the modal smaller */
+    max-width: 500px; /* Set a maximum width */
+    border-radius: 10px; /* Add rounded edges */
+}
+
+#reset-confirmation-modal .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#reset-confirmation-modal .close:hover,
+#reset-confirmation-modal .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#binder-buttons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.binder-button {
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    position: relative;
+}
+
+.binder-button:hover {
+    transform: scale(1.05);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.binder-button::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 20px;
+    background-color: #ccc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.binder-button::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 100%;
+    background-color: #ccc;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.key-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.key-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.key-color {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 3px;
+    background-color: #fff;
+    border: 2px solid;
+}
+
+.key-color.normal {
+    border-color: black;
+}
+
+.key-color.holofoil {
+    border-color: rgb(255, 81, 0);
+}
+
+.key-color.reverse_holofoil {
+    border-color: rgb(0, 217, 255);
+}
